@@ -19,6 +19,7 @@ hopper_objects = []
 
 # while loop makes request + increments page # until all results are returned
 while page <= page_count:
+	print("Requesting page " + str(page) + " . . .")
 	query = {"format":"json", "artist_id":"621", "page":page}
 	r = requests.get("http://collection.whitney.org/json/objects", params=query)
 	data = json.loads(r.text)
