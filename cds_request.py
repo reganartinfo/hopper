@@ -28,4 +28,4 @@ while page <= page_count:
 	page += 1
 
 # stores json results for later with pretty print
-json.dump(hopper_objects,open("hopper.json","w"), indent=4)
+json.dump(hopper_objects,open("hopper_dump.json","w"), indent=4)
