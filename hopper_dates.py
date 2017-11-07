@@ -1,9 +1,14 @@
 import json, re
+from collections import Counter
 
 # set arrays for dates
 range_dates = []
 no_dates = []
 other_dates = []
+
+# set arrays for range_dates counter
+a_counter = []
+
 # pythex_date = regex for year
 pythex_date = re.compile("\d{4}")
 
@@ -27,7 +32,7 @@ with open("hopper_dump.json","r") as f:
 			# appends object that fall into range (1925-1937, inclusive) to range_dates array 
 			if (earliest_date >= 1925) and (earliest_date <= 1937):
 				range_dates.append(an_object)
-
+				a_counter.append(earliest_date)
 			# appends object that falls outside range to other_dates array
 			else:
 				other_dates.append(an_object)
@@ -37,8 +42,10 @@ print("Count of objects with no dates: " + str(len(no_dates)))
 print("Count of objects within date range: " + str(len(range_dates)))
 print("Count of objects outside of date range: " + str(len(other_dates)))
 
-# stores sorted json results for later with pretty print
-# hopper_dates.json = the goods!
-json.dump(no_dates,open("hopper_nodates.json","w"),indent=4)
-json.dump(range_dates,open("hopper_dates.json","w"),indent=4)
-json.dump(other_dates,open("hopper_otherdates.json","w"),indent=4)
+print(Counter(a_counter))
+
+# # stores sorted json results for later with pretty print
+# # hopper_dates.json = the goods!
+# json.dump(no_dates,open("hopper_nodates.json","w"),indent=4)
+# json.dump(range_dates,open("hopper_dates.json","w"),indent=4)
+# json.dump(other_dates,open("hopper_otherdates.json","w"),indent=4)
