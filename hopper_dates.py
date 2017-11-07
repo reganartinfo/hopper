@@ -45,8 +45,8 @@ sorted_dates = sorted(a_counter)
 range_dates_count = dict((i, sorted_dates.count(i)) for i in sorted_dates)
 print(range_dates_count)
 
-# # stores sorted json results for later with pretty print
-# # hopper_dates.json = the goods!
-# json.dump(no_dates,open("hopper_nodates.json","w"),indent=4)
-# json.dump(range_dates,open("hopper_dates.json","w"),indent=4)
-# json.dump(other_dates,open("hopper_otherdates.json","w"),indent=4)
+# stores sorted json results for later with pretty print
+# hopper_dates.json = the goods!
+json.dump(no_dates,open("hopper_nodates.json","w"),indent=4)
+json.dump(range_dates,open("hopper_dates.json","w"),indent=4)
+json.dump(other_dates,open("hopper_otherdates.json","w"),indent=4)
