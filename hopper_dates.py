@@ -1,5 +1,4 @@
 import json, re
-from collections import Counter
 
 # set arrays for dates
 range_dates = []
@@ -42,7 +41,9 @@ print("Count of objects with no dates: " + str(len(no_dates)))
 print("Count of objects within date range: " + str(len(range_dates)))
 print("Count of objects outside of date range: " + str(len(other_dates)))
 
-print(Counter(a_counter))
+sorted_dates = sorted(a_counter)
+range_dates_count = dict((i, sorted_dates.count(i)) for i in sorted_dates)
+print(range_dates_count)
 
 # # stores sorted json results for later with pretty print
 # # hopper_dates.json = the goods!
