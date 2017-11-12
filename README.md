@@ -14,6 +14,7 @@ This project investigates the cultural and theatrical landscape of Edward Hopper
 Primary source metadata has been generously provided by the Whitney Museum of American Art, including access to their Collection Data Server/System (CDS) API. Additional data sources include:
 * [Carnegie Hall Archives Linked Data](https://github.com/CarnegieHall/linked-data)
 * [Cinema Treasures](http://cinematreasures.org/)
+* [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/start)
 * [Internet Broadway Database](https://www.ibdb.com/)
 * [Internet Movie Database](https://www.imdb.com/)
 * [New York Public Library API](http://api.repo.nypl.org/)
