@@ -223,7 +223,7 @@ def cleanDates(filename1):
 	json.dump(in_range,open("hopper_cleandates2.json","w"),indent=4)
 
 # merges "naturally" clean dates with dates needing more TLC, both within range
-def mergeDates(filename1, filename2):
+def mergeDates(filename1, filename2, filename3):
 	with open(filename1,"r") as f1:
 		encoder1 = json.load(f1)
 		with open(filename2,"r") as f2:
@@ -231,8 +231,9 @@ def mergeDates(filename1, filename2):
 			for an_object in encoder1:
 				encoder2.append(an_object)
 			# squeaky clean date index :)
-			json.dump(encoder2,open("hopper_scrubbed.json","w"),indent=4)
+			json.dump(encoder2,open(filename3,"w"),indent=4)
 
-getDates("hopper_dump.json")
-cleanDates("hopper_messydates.json")
-mergeDates("hopper_cleandates1.json","hopper_cleandates2.json")
+# getDates("hopper_dump.json")
+# cleanDates("hopper_messydates.json")
+mergeDates("hopper_cleandates1.json","hopper_cleandates2.json","hopper_scrubbed.json")
+mergeDates("hopper_scrubbed.json","hopper_nodates.json","hopper_final_dates.json")

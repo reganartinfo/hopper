@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+* {
+	font-family: 'PT Sans', Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0 auto;
+	width: 98%;
+}
+
+header, footer {
+	text-align: center;
+	padding: 1.5em;
+}
+
+#mapid {
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+}

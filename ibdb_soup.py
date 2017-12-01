@@ -11,7 +11,7 @@ def playwrightData(csvfile,jsonfile):
 
 		# converts CSV to dictionary
 		for row in reader:
-			csv_to_json = {"file_id": row[0], "venue_name": row[2], "venue_id": row[3], "venue_address": row[4], "venue_lifecycle": {"status": row[5], "info": row[6]}, "event_title": row[8], "event_id": row[9], "event_category": row[10], "event_date": {"year":row[11], "month": row[12], "date": row[13]}, "scope_notes": row[14]}
+			csv_to_json = {"file_id": row[0], "venue_name": row[2], "venue_id": row[3], "venue_address": row[4], "venue_lifecycle": row[5], "venue_status": row[6], "event_title": row[8], "event_id": row[9], "event_category": row[10], "event_date": {"year":row[11], "month": row[12], "date": row[13]}, "scope_notes": row[14]}
 			production_id = row[9]
 
 			# concatenates URL with IBDB Production ID slug
