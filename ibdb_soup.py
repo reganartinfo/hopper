@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import csv, json, re, requests
 
-# all_data = set array for structured data
-all_data = []
-
 def playwrightData(csvfile,jsonfile):
+	# all_data = set array for structured data
+	all_data = []
+
 	# opens CSV with enriched ticket data (exported from Google Sheets)
 	with open(csvfile,"r") as f:
 		reader = csv.reader(f)
