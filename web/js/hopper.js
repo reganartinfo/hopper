@@ -1,5 +1,5 @@
 // creates map of Broadway theater district
-var mymap = L.map('mapid').setView([40.7590, -73.9845], 13);
+var mymap = L.map('mapid').setView([40.7590, -73.9845], 14);
 
 // imports Stamen's toner map style
 var tonerUrl = "http://{S}tile.stamen.com/toner/{Z}/{X}/{Y}.png";
@@ -21,20 +21,17 @@ basemap.addTo(mymap);
 var ticketIcon = L.Icon.extend({
 	options: {
 		iconSize: [50,50],
-		iconAnchor: [25,25],
-		popupAnchor: [3,-15]
+		iconAnchor: [0,50],
+		popupAnchor: [22,-30]
 	}
 });
 
-var redIcon = new ticketIcon({iconUrl: 'https://image.ibb.co/dYMAcw/ticket_red.png'}),
-    yellowIcon = new ticketIcon({iconUrl: 'https://image.ibb.co/b8bnPb/ticket_yellow.png'}),
-    blueIcon = new ticketIcon({iconUrl: 'https://image.ibb.co/fpyCqG/ticket_blue.png'}),
-    blackIcon = new ticketIcon({iconUrl: 'https://image.ibb.co/hkUwHw/ticket_black.png'});
+var redIcon = new ticketIcon({iconUrl: 'http://icon-park.com/imagefiles/location_map_pin_orange10.png'});
 
 // http://youmightnotneedjquery.com/
 // AJAX request
 var request = new XMLHttpRequest();
-request.open('GET', '/theatre_only.json', true);
+request.open('GET', '/final_ticket_data.json', true);
 
 request.onload = function() {
   if (request.status >= 200 && request.status < 400) {
@@ -45,9 +42,22 @@ request.onload = function() {
       var venueAddress = hdata.venue_address_ibdb_googlezip;
       var venueLat = hdata.google_geocode_api[0].geometry.location.lat;
       var venueLng = hdata.google_geocode_api[0].geometry.location.lng;
+      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress;
+      var tickets = hdata.tickets;
 
-      // adds custom marker to map
-      L.marker([venueLat, venueLng], {icon: redIcon}).addTo(mymap).bindPopup('<b>'+venueName+'</b><br/>'+venueAddress);
+      tickets.forEach(function(tdata){
+        var eventTitle = tdata.event_title_ibdb;
+        var eventYear = tdata.event_year_hopper;
+        var writerName = tdata.writer_name_ibdb;
+        var wikiID = tdata.writer_id_wikidata;
+        var ticketPop = '<br/>Production: <i>'+eventTitle+'</i>('+eventYear+')<br/>Written by: '+writerName;
+        addressPop.concat(ticketPop)
+        console.log(addressPop)
+
+      });
+
+      L.marker([venueLat, venueLng], {icon: redIcon}).addTo(mymap).bindPopup(addressPop);
+
     });
   } else {
     // reached our target server, but it returned an error
