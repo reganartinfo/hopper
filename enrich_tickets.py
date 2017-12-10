@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import csv, json, re, requests
-# from itertools import chain
 
 def enrichTickets():
 
+	# scrapes playwright name and IBDB person ID from IBDB
 	def ibdbRequest(csv_input,csv_output):
 		with open(csv_output,'w') as f_out:
 			writer = csv.writer(f_out)
@@ -36,6 +36,7 @@ def enrichTickets():
 
 	# ibdbRequest('confirmed_tickets.csv','ibdb_ticket_data.csv')
 
+	# sends SPARQL queries to Wikidata, returns properties for matching
 	def wikidataRequest(wiki_query):
 		wiki_request = requests.get(wiki_query)
 		wiki_html = wiki_request.text
@@ -55,6 +56,7 @@ def enrichTickets():
 				wiki_results.append(a_result)
 		return(wiki_results)
 
+	# adds Wikidata IDs for IBDB production IDs
 	def addProductions(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1218%20%3FInternet_Broadway_Database_production_ID.%20%7D%0A%7D%0ALIMIT%205000')
 		with open(csv_output,'w') as f_out:
@@ -70,6 +72,7 @@ def enrichTickets():
 
 	# addProductions('ibdb_ticket_data.csv','wiki_production_data.csv')
 
+	#adds Wikidata IDs for IBDB show IDs
 	def addShows(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1219%20%3FInternet_Broadway_Database_show_ID.%20%7D%0A%7D')
 		with open(csv_output,'w') as f_out:
@@ -84,6 +87,7 @@ def enrichTickets():
 
 	# addShows('wiki_production_data.csv','wiki_show_data.csv')
 
+	# adds Wikidata IDs for IBDB person IDs
 	def addPlaywrights(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1220%20%3FInternet_Broadway_Database_person_ID.%20%7D%0A%7D')
 		with open(csv_output,'w') as f_out:
@@ -98,6 +102,7 @@ def enrichTickets():
 
 	# addPlaywrights('wiki_show_data.csv','wiki_playwright_data.csv')
 
+	# adds Wikidata IDs for IBDB venue IDs
 	def addVenues(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1217%20%3FInternet_Broadway_Database_venue_ID.%20%7D%0A%7D')
 		with open(csv_output,'w') as f_out:
@@ -112,6 +117,7 @@ def enrichTickets():
 
 	# addVenues('wiki_playwright_data.csv','wiki_venue_data.csv')
 
+	# structures csv flat file into nested json for web optimization
 	def nestTickets(csv_input,json_output):
 		with open(csv_input,'r') as f:
 			reader = csv.reader(f)
@@ -147,6 +153,7 @@ def enrichTickets():
 
 	# nestTickets('wiki_venue_data.csv','nested_ticket_data.json')
 
+	# makes requests to Google Maps Geocoding API
 	def addGeocodes(json_input,json_output,api_key):
 		with open(json_input,'r') as f:
 			encoder = json.load(f)
