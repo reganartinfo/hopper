@@ -42,17 +42,18 @@ request.onload = function() {
       var venueAddress = hdata.venue_address_ibdb_googlezip;
       var venueLat = hdata.google_geocode_api[0].geometry.location.lat;
       var venueLng = hdata.google_geocode_api[0].geometry.location.lng;
-      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress;
       var tickets = hdata.tickets;
+      var ticketCount = tickets.length;
+      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount;
 
       tickets.forEach(function(tdata){
         var eventTitle = tdata.event_title_ibdb;
         var eventYear = tdata.event_year_hopper;
         var writerName = tdata.writer_name_ibdb;
         var wikiID = tdata.writer_id_wikidata;
-        var ticketPop = '<br/>Production: <i>'+eventTitle+'</i>('+eventYear+')<br/>Written by: '+writerName;
-        addressPop.concat(ticketPop)
-        console.log(addressPop)
+        var ticketPop = '<br/>Production: <i>'+eventTitle+'</i>('+eventYear+')<br/>Written by: '+writerName+'<br/>';
+        addressPop.concat(ticketPop);
+        console.log(addressPop);
 
       });
 
