@@ -19,5 +19,4 @@ Primary source metadata has been generously provided by the Whitney Museum of Am
 * [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/start)
 * [Internet Broadway Database](https://www.ibdb.com/)
 * [Internet Movie Database](https://www.imdb.com/)
-* [New York Public Library API](http://api.repo.nypl.org/)
 * [Wikidata API](https://www.wikidata.org/w/api.php)
