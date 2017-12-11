@@ -44,18 +44,27 @@ request.onload = function() {
       var venueLng = hdata.google_geocode_api[0].geometry.location.lng;
       var tickets = hdata.tickets;
       var ticketCount = tickets.length;
-      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount;
+      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount+'<br/>';
 
+      var ticketPop = ''
       tickets.forEach(function(tdata){
         var eventTitle = tdata.event_title_ibdb;
         var eventYear = tdata.event_year_hopper;
         var writerName = tdata.writer_name_ibdb;
+        if (writerName == 'NULL') {
+          writerName = 'N/A';
+        };
         var wikiID = tdata.writer_id_wikidata;
-        var ticketPop = '<br/>Production: <i>'+eventTitle+'</i>('+eventYear+')<br/>Written by: '+writerName+'<br/>';
-        addressPop.concat(ticketPop);
-        console.log(addressPop);
-
+        ticketPop = ticketPop+'<br/>Production: <i>'+eventTitle+'</i> ('+eventYear+')<br/>Written by: '+writerName;
+        if (wikiID == 'NULL') {
+          var wikiPop = ''
+        } else {
+          var wikiPop = ' (<a href="https://www.wikidata.org/wiki/'+wikiID+'" target="_blank">'+wikiID+'</a>)';
+        };
+        ticketPop = ticketPop+wikiPop+'<br/>';
       });
+
+      addressPop = addressPop+ticketPop
 
       L.marker([venueLat, venueLng], {icon: redIcon}).addTo(mymap).bindPopup(addressPop);
 
