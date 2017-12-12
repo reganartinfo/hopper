@@ -31,7 +31,7 @@ var redIcon = new ticketIcon({iconUrl: 'http://icon-park.com/imagefiles/location
 // http://youmightnotneedjquery.com/
 // AJAX request
 var request = new XMLHttpRequest();
-request.open('GET', 'final_ticket_data.json', true);
+request.open('GET', 'data/final_ticket_data.json', true);
 
 request.onload = function() {
   if (request.status >= 200 && request.status < 400) {
