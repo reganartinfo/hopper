@@ -2,7 +2,7 @@
 
 * {
 	font-family: 'PT Sans', Helvetica, sans-serif;
-	box-sizing: border-box;
+/*	box-sizing: border-box;*/
 }
 
 body {
@@ -16,7 +16,7 @@ header, footer {
 }
 
 #mapid {
-	width: 1250px;
-	height: 625px;
+	width: 70em;
+	height: 40em;
 	margin: 0 auto;
 }
