@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 from collections import Counter
+from itertools import cycle
 from urllib.request import urlretrieve
 import csv, json, re, requests, os
 
@@ -254,7 +255,6 @@ def hopperObjects():
 def enrichTickets():
 
 	def ibdbRequest(csv_input,csv_output):
-		os.chdir('data')
 		with open(csv_output,'w') as f_out:
 			writer = csv.writer(f_out)
 			with open(csv_input,'r') as f_in:
@@ -270,7 +270,6 @@ def enrichTickets():
 					ibdb_soup = BeautifulSoup(ibdb_html,'html.parser')
 					pythex = re.compile('[0-9]*$')
 					production_table = ibdb_soup.find('table',attrs={'class':'production-staff'})
-					print(production_table)
 					table_rows = production_table.findAll('td')
 
 					for a_row in table_rows:
@@ -285,7 +284,7 @@ def enrichTickets():
 
 					writer.writerow(row)
 
-	ibdbRequest('confirmed_tickets.csv','ibdb_ticket_data.csv')
+	# ibdbRequest('confirmed_tickets.csv','ibdb_ticket_data.csv')
 
 	def wikidataRequest(wiki_query):
 		wiki_request = requests.get(wiki_query)
@@ -307,6 +306,11 @@ def enrichTickets():
 		return(wiki_results)
 
 	def addProductions(csv_input,csv_output):
+		cwd = os.getcwd()
+		filepath = os.path.join(cwd,'data')
+		if not os.path.exists(filepath):
+			os.mkdir(filepath)
+		os.chdir(filepath)
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1218%20%3FInternet_Broadway_Database_production_ID.%20%7D%0A%7D%0ALIMIT%205000')
 		with open(csv_output,'w') as f_out:
 			writer = csv.writer(f_out)
@@ -319,7 +323,7 @@ def enrichTickets():
 							row[10] = a_result[1]
 					writer.writerow(row)
 
-	addProductions('ibdb_ticket_data.csv','wiki_production_data.csv')
+	addProductions('confirmed_tickets.csv','wiki_production_data.csv')
 
 	def addShows(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1219%20%3FInternet_Broadway_Database_show_ID.%20%7D%0A%7D')
