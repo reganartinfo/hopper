@@ -18,7 +18,7 @@ Primary source metadata has been generously provided by the Whitney Museum of Am
 * [Wikidata API](https://www.wikidata.org/w/api.php)
 
 ## Implementation
-Clone or download the repo to create a local copy on your computer. Open your CLI, change your working directory to **_hopper_**, and enter the following command to run **_all_** data ingestion scripts.
+Clone or download the repo to create a local copy on your computer. Open your CLI, change your working directory to **_hopper_**, and enter the following command to run *all* data ingestion scripts.
 ```
 $python3 hopper.py
 ```
@@ -27,3 +27,13 @@ Enriched datasets should automatically be created and modfied in the **_hopper/d
 $python3 -m http.server
 ```
 Then, open a new browser window to http://0.0.0.0:8000/
+
+Each icon on the Leaflet map marks a distinct theatre's geographical point. Clicking on any marker opens a popup containing the following information:
+* The theatre's name
+* The theatre's address, including zip code
+* The count of ticket stubs issued by the theatre and saved by Edward Hopper
+* A list of shows attended by Edward Hopper at the theatre, including
+  * The show's title
+  * The year Hopper attended the show
+  * The name of the show's playwright, when available
+  * The playwright's Wikidata ID, when available
