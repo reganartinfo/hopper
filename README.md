@@ -24,6 +24,6 @@ $python3 hopper.py
 ```
 Enriched datasets should automatically be created and modfied in the **_hopper/data_** directory. To set up a local testing server and play with the Leaflet visualization, set **_hopper_** as your working directory, and enter the following command:
 ```
-python3 -m http.server
+$python3 -m http.server
 ```
 Then, open a new browser window to http://0.0.0.0:8000/
