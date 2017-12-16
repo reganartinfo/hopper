@@ -10,11 +10,11 @@ The [preliminary deliverable](https://reganartinfo.github.io/hopper/) is an inte
 * The theatre's name
 * The theatre's address, including zip code
 * The count of ticket stubs issued by the theatre and saved by Edward Hopper
-* A list of shows attended by Edward Hopper at the theatre, including
+* A list of shows attended by Edward Hopper at the theatre, including:
   * The show's title
   * The year Hopper attended the show
-  * The name of the show's playwright, when available
-  * The playwright's Wikidata ID, when available
+  * The name of the show's playwright (if available)
+  * The playwright's Wikidata ID (if available)
 
 ## Data Sources
 Primary source metadata has been generously provided by the Whitney Museum of American Art, along with access to their Collection Data Server/System (CDS) API. Additional data sources include:
