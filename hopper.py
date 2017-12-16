@@ -4,8 +4,10 @@ from itertools import cycle
 from urllib.request import urlretrieve
 import csv, json, re, requests, os
 
+# functions for artwork by Edward Hopper in the Whitney's permanent collection (referred to as 'Objects' in TMS)
 def hopperObjects():
 
+	# checks if path exists for data directory before making CDS API requests
 	def dataPathCheck(query,json_output):
 		cwd = os.getcwd()
 		filepath = os.path.join(cwd,'data')
@@ -15,9 +17,11 @@ def hopperObjects():
 
 		filepath = os.path.join(os.getcwd(),json_output)
 		
+		# checks if json dump already exists
 		if os.path.exists(filepath):
-			choice = input('A copy of '+json_output+' already exists. Do you wish to overwrite it? [y/n]\n')
 
+			# asks for user input if they want to overwrite it
+			choice = input('A copy of '+json_output+' already exists. Do you wish to overwrite it? [y/n]\n')
 			if choice == 'y':
 				print('Beginning to make requests to CDS API for JSON collection data from the Whitney Museum . . .')
 				cdsRequest(query,json_output)
@@ -29,6 +33,7 @@ def hopperObjects():
 		else:
 			cdsRequest(query,json_output)
 
+	# makes CDS API requests for all Hopper-related Objects
 	def cdsRequest(query,json_output):
 		r = requests.get('http://collection.whitney.org/json/objects', params=query)
 
@@ -38,10 +43,12 @@ def hopperObjects():
 		data = json.loads(r.text)
 		total_count = data['count']
 
+		# CDS API returns 1 page with 36 results per request --> params cannot be changed :(
 		page_count = round(total_count/36)
 		page = 1
 		hopper_objects = []
 
+		# while loop makes request + increments page # until all results are returned
 		while page <= page_count:
 			print('Requesting page ' + str(page) + ' . . .')
 			query = {'format':'json', 'artist_id':'621', 'page':page}
@@ -51,9 +58,13 @@ def hopperObjects():
 				hopper_objects.append(an_object)
 			page += 1
 
+		# stores json results for later use with pretty print
 		json.dump(hopper_objects,open(json_output,'w'), indent=4)
+
+		# cd
 		os.chdir('..')
 
+	# cleans messy dates following CCO standards for indexing
 	def cleanDates(json_input,json_output):
 		re_year = re.compile('[0-9]{4}')
 		re_start = re.compile('^[0-9]{4}')
@@ -66,16 +77,20 @@ def hopperObjects():
 
 			all_dates = []		
 
+			# loops through each json object in hopper_dump
 			for an_object in encoder:
 				object_date = an_object['display_date']
+				# creates earliest date and latest date keys + values
 				earliest_date = {'earliest_date': object_date}
 				latest_date = {'latest_date': object_date}
 				
+				# checks for an object with no date ("n.d.")
 				if (object_date == 'n.d.') or (len(object_date) == 4):
 					an_object.update(earliest_date)
 					an_object.update(latest_date)
 
 				else:
+					# cleans c.xxxx, including adding space to display date
 					if len(object_date) == 6:
 						search = re_year.findall(object_date)
 						an_object['display_date'] = 'ca. ' + search[0]
@@ -85,6 +100,7 @@ def hopperObjects():
 						an_object.update(latest_date)
 
 					if len(object_date) == 7:
+						# cleans c. xxxx
 						if 'c.' in object_date:
 							search = re_year.findall(object_date)
 							an_object['display_date'] = 'ca. ' + search[0]
@@ -92,6 +108,7 @@ def hopperObjects():
 							latest_date['latest_date'] = int(search[0]) + 5
 							an_object.update(earliest_date)
 							an_object.update(latest_date)
+						# cleans xxxx-xx
 						else:
 							full_year = re_year.findall(object_date)
 							head = re_head.findall(object_date)
@@ -103,6 +120,7 @@ def hopperObjects():
 							an_object.update(latest_date)
 
 					if len(object_date) == 9:
+						# cleans c.xxxx-xx
 						if 'c.' in object_date:
 							search = object_date[2:]
 							an_object['display_date'] = 'ca. ' + search
@@ -114,6 +132,7 @@ def hopperObjects():
 							latest_date['latest_date'] = new_year
 							an_object.update(earliest_date)
 							an_object.update(latest_date)
+						# cleans xxxx-xxxx
 						else:
 							search = re_year.findall(object_date)
 							earliest_date['earliest_date'] = search[0]
@@ -122,12 +141,14 @@ def hopperObjects():
 							an_object.update(latest_date)
 
 					if len(object_date) == 10:
+						# cleans After xxxx
 						if 'After' in object_date:
 							search = re_year.findall(object_date)
 							earliest_date['earliest_date'] = search[0]
 							latest_date['latest_date'] = int(search[0]) + 10
 							an_object.update(earliest_date)
 							an_object.update(latest_date)
+						# cleans c. xxxx-xx
 						else:
 							search = object_date[3:]
 							an_object['display_date'] = 'ca. ' + search
@@ -141,6 +162,7 @@ def hopperObjects():
 							an_object.update(latest_date)
 							
 					if len(object_date) == 12:
+						# cleans c. xxxx-xxxx
 						if 'c.' in object_date:
 							search = object_date[3:]
 							an_object['display_date'] = 'ca. ' + search
@@ -149,6 +171,7 @@ def hopperObjects():
 							latest_date['latest_date'] = full_year[1]
 							an_object.update(earliest_date)
 							an_object.update(latest_date)
+						# cleans xxxx or xxxx
 						else:
 							search = re_year.findall(object_date)
 							earliest_date['earliest_date'] = search[0]
@@ -156,6 +179,7 @@ def hopperObjects():
 							an_object.update(earliest_date)
 							an_object.update(latest_date)
 
+					# cleans xxxx, posthumous print
 					if len(object_date) == 22:
 						search = re_year.findall(object_date)
 						earliest_date['earliest_date'] = search[0]
@@ -164,6 +188,7 @@ def hopperObjects():
 						an_object.update(latest_date)
 
 					if len(object_date) == 25:
+						# cleans c. xxxx, posthumous print
 						if 'c.' in object_date:
 							search = object_date[3:]
 							an_object['display_date'] = 'ca. ' + search
@@ -172,6 +197,7 @@ def hopperObjects():
 							latest_date['latest_date'] = int(full_year[0]) + 5
 							an_object.update(earliest_date)
 							an_object.update(latest_date)
+						# cleans xxxx-xx, posthumous print	
 						else:
 							full_year = re_year.findall(search)
 							head = re_head.findall(search)
@@ -184,8 +210,10 @@ def hopperObjects():
 
 				all_dates.append(an_object)
 
+			# stores json results for later use with pretty print
 			json.dump(all_dates,open(json_output,'w'),indent=4)
 
+	# filters clean dates in range (1925-1937, inclusive)
 	def filterDates(json_input,json_output):
 		with open(json_input,'r') as f:
 			encoder = json.load(f)
@@ -200,43 +228,52 @@ def hopperObjects():
 					filter_dates.append(an_object)
 
 				else:
+					# appends objects that fall into range
 					if (int(earliest_date) >= 1925 and int(earliest_date) <= 1937) or (int(latest_date) >= 1925 and int(latest_date) <= 1937):
 						filter_dates.append(an_object)
 			
+			# stores json results for later use with pretty print
 			json.dump(filter_dates,open(json_output,'w'),indent=4)
 
+	# counts # of Hopper Objects that match each ticket date, either identically (strong) or in range (weak)
 	def objectCounter(jsonfile):
 		with open(jsonfile,'r') as f:
 			encoder = json.load(f)
 
+			# counters
 			no_date_counter = 0
 			object_counter = 0
 			strong_match_counter = 0
 			weak_match_counter = 0
 
+			# set array for exact matches
+			# Counter subclass in sanity check will break results down by year
 			exact_matches = []
 
+			# dict for weak matches
 			ticket_years = list(range(1925,1938))
 			ticket_dict = dict.fromkeys(ticket_years,0)
 
 			for an_object in encoder:
 				object_counter += 1
 
+				# checks for an object with no date ("n.d.") + increments no date counter
 				if an_object['display_date'] == 'n.d.':
 					no_date_counter += 1
 
 				else:
+					# checks for strong date matches (i.e. when earliest_date == latest_date) + increments strong match counter
 					earliest_date = int(an_object['earliest_date'])
 					latest_date = int(an_object['latest_date'])
-
 					if earliest_date==latest_date:
 						strong_match_counter += 1
 						exact_matches.append(earliest_date)
 
 					else:
+						# increments weak match counter
 						weak_match_counter += 1
 						for a_year in ticket_dict:
-
+							# checks for weak date matches
 							if (earliest_date <= a_year) and (latest_date >= a_year):
 								ticket_dict[a_year] += 1
 
@@ -252,26 +289,32 @@ def hopperObjects():
 	filterDates('hopper_object_dates.json','hopper_final_dates.json')
 	objectCounter('hopper_final_dates.json')
 
+# functions for ticket stubs from events attended by Edward Hopper in the Whitney's archives
 def enrichTickets():
 
+	# scrapes playwright name and IBDB person ID from IBDB
 	def ibdbRequest(csv_input,csv_output):
+		# opens empty CSV for writing with enriched data
 		with open(csv_output,'w') as f_out:
 			writer = csv.writer(f_out)
+
+			# opens CSV with ticket data (exported from Google Sheets)
 			with open(csv_input,'r') as f_in:
 				reader = csv.reader(f_in)
+
 				for row in reader:
 					ibdb_production_id = row[9]
-
+					# concatenates URL with IBDB Production ID slug
 					ibdb_search = 'https://www.ibdb.com/broadway-production/' + ibdb_production_id
 					ibdb_request = requests.get(ibdb_search, verify=False)
 					ibdb_html = ibdb_request.text
-					print(ibdb_html)
-
 					ibdb_soup = BeautifulSoup(ibdb_html,'html.parser')
+					# regex to help scrape IBDB Playwright ID
 					pythex = re.compile('[0-9]*$')
 					production_table = ibdb_soup.find('table',attrs={'class':'production-staff'})
 					table_rows = production_table.findAll('td')
 
+					# looks for tag with "Written" (e.g. "Written by") + plucks ID from href attr + grabs playwright name from content
 					for a_row in table_rows:
 						if 'Written' in a_row.contents[0]:
 							writer_data = a_row.find('a')
@@ -279,13 +322,14 @@ def enrichTickets():
 							ibdb_writer_id = pythex.findall(writer_href)[0]
 							ibdb_writer_name = writer_data.string
 
+							# updates playwright data for CSV
 							row[14] = ibdb_writer_name
 							row[15] = ibdb_writer_id
 
+					# writes into newly created
 					writer.writerow(row)
 
-	# ibdbRequest('confirmed_tickets.csv','ibdb_ticket_data.csv')
-
+	# sends SPARQL queries to Wikidata, returns properties for matching
 	def wikidataRequest(wiki_query):
 		wiki_request = requests.get(wiki_query)
 		wiki_html = wiki_request.text
@@ -305,6 +349,7 @@ def enrichTickets():
 				wiki_results.append(a_result)
 		return(wiki_results)
 
+	# adds Wikidata IDs for IBDB production IDs
 	def addProductions(csv_input,csv_output):
 		cwd = os.getcwd()
 		filepath = os.path.join(cwd,'data')
@@ -322,8 +367,6 @@ def enrichTickets():
 						if row[9] == str(a_result[0]):
 							row[10] = a_result[1]
 					writer.writerow(row)
-
-	addProductions('confirmed_tickets.csv','wiki_production_data.csv')
 
 	def addShows(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1219%20%3FInternet_Broadway_Database_show_ID.%20%7D%0A%7D')
@@ -422,7 +465,11 @@ def enrichTickets():
 
 			json.dump(all_data,open(json_output,'w'),indent=4)
 
+	# ibdbRequest('confirmed_tickets.csv','ibdb_ticket_data.csv')
+		# N.B. code no longer works, although did scrape successfully mid-November 2017
+		# function is commented out for now to keep data flowing while illustrating process
+	addProductions('confirmed_tickets.csv','wiki_production_data.csv')
 	addGeocodes('nested_ticket_data.json','final_ticket_data.json','AIzaSyDElq1yMMEFinn3sYd3I02xrJSxKShesBg')
 
-# hopperObjects()
+hopperObjects()
 enrichTickets()
