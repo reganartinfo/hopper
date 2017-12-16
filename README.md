@@ -16,3 +16,14 @@ Primary source metadata has been generously provided by the Whitney Museum of Am
 * [Internet Broadway Database](https://www.ibdb.com/)
 * [Internet Movie Database](https://www.imdb.com/)
 * [Wikidata API](https://www.wikidata.org/w/api.php)
+
+## Implementation
+Clone or download the repo to create a local copy on your computer. Open your CLI, change your working directory to **_hopper_**, and enter the following command to run **_all_** data ingestion scripts.
+```
+$python3 hopper.py
+```
+Enriched datasets should automatically be created and modfied in the **_hopper/data_** directory. To set up a local testing server and play with the Leaflet visualization, set **_hopper_** as your working directory, and enter the following command:
+```
+python3 -m http.server
+```
+Then, open a new browser window to http://0.0.0.0:8000/
