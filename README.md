@@ -8,7 +8,7 @@ This project investigates the cultural and theatrical landscape of Edward Hopper
 
 The [preliminary deliverable](https://reganartinfo.github.io/hopper/) is an interactive map built with [Leaflet](http://leafletjs.com/) and [Stamen Maps](http://maps.stamen.com/) to satisfy the course requirements for [Programming for Cultural Heritage](http://pfch.nyc/) (LIS-664-01). Each icon on the Leaflet map marks a distinct theatre's geographical point. Clicking on any marker opens a popup containing the following information:
 * The theatre's name
-* The theatre's address, including zip code
+* The theatre's address
 * The count of ticket stubs issued by the theatre and saved by Edward Hopper
 * A list of shows attended by Edward Hopper at the theatre, including:
   * The show's title
