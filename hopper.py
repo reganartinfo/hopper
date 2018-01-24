@@ -368,6 +368,8 @@ def enrichTickets():
 							row[10] = a_result[1]
 					writer.writerow(row)
 
+	addProductions('confirmed_tickets.csv','wiki_production_data.csv')
+
 	def addShows(csv_input,csv_output):
 		wikidataRequest('https://query.wikidata.org/sparql?query=SELECT%20%2a%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP1219%20%3FInternet_Broadway_Database_show_ID.%20%7D%0A%7D')
 		with open(csv_output,'w') as f_out:
@@ -468,8 +470,58 @@ def enrichTickets():
 	# ibdbRequest('confirmed_tickets.csv','ibdb_ticket_data.csv')
 		# N.B. code no longer works, although did scrape successfully mid-November 2017
 		# function is commented out for now to keep data flowing while illustrating process
-	addProductions('confirmed_tickets.csv','wiki_production_data.csv')
 	addGeocodes('nested_ticket_data.json','final_ticket_data.json','AIzaSyDElq1yMMEFinn3sYd3I02xrJSxKShesBg')
+
+	def wikiURLs(json_input,json_output):
+		cwd = os.getcwd()
+		filepath = os.path.join(cwd,'data')
+		if not os.path.exists(filepath):
+			os.mkdir(filepath)
+		os.chdir(filepath)
+
+		with open(json_input,'r') as f:
+			encoder = json.load(f)
+
+			all_data = []
+			for an_object in encoder:
+				venue_id_wikidata = an_object['venue_id_wikidata']
+				an_object['venue_wikipedia_url'] = 'NULL'
+
+				if venue_id_wikidata != 'NULL':
+					wikidata_request = requests.get('https://www.wikidata.org/wiki/Special:EntityData/' + venue_id_wikidata + '.json')
+					data = json.loads(wikidata_request.text)
+					try:
+						an_object['venue_wikipedia_url'] = data['entities'][venue_id_wikidata]['sitelinks']['enwiki']['url']
+					except KeyError:
+						an_object['venue_wikipedia_url'] = 'No Wikipedia entry in English available.'
+
+				for a_ticket in an_object['tickets']:
+					show_id_wikidata = a_ticket['show_id_wikidata']
+					writer_id_wikidata = a_ticket['writer_id_wikidata']
+					a_ticket['show_wikipedia_url'] = 'NULL'
+					a_ticket['writer_wikipedia_url'] = 'NULL'
+
+					if show_id_wikidata != 'NULL':
+						wikidata_request = requests.get('https://www.wikidata.org/wiki/Special:EntityData/' + show_id_wikidata + '.json')
+						data = json.loads(wikidata_request.text)
+						try:
+							a_ticket['show_wikipedia_url'] = data['entities'][show_id_wikidata]['sitelinks']['enwiki']['url']
+						except KeyError:
+							a_ticket['show_wikipedia_url'] = 'No Wikipedia entry in English available.'
+
+					if writer_id_wikidata != 'NULL':
+						wikidata_request = requests.get('https://www.wikidata.org/wiki/Special:EntityData/' + writer_id_wikidata + '.json')
+						data = json.loads(wikidata_request.text)
+						try:
+							a_ticket['writer_wikipedia_url'] = data['entities'][writer_id_wikidata]['sitelinks']['enwiki']['url']
+						except KeyError:
+							a_ticket['writer_wikipedia_url'] = 'No Wikipedia entry in English available.'
+
+				all_data.append(an_object)
+
+			json.dump(all_data,open(json_output,'w'),indent=4)
+
+	wikiURLs('final_ticket_data.json','wiki_urls.json')
 
 hopperObjects()
 enrichTickets()
