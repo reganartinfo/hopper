@@ -472,6 +472,7 @@ def enrichTickets():
 		# function is commented out for now to keep data flowing while illustrating process
 	addGeocodes('nested_ticket_data.json','final_ticket_data.json','AIzaSyDElq1yMMEFinn3sYd3I02xrJSxKShesBg')
 
+def wikiData():
 	def wikiURLs(json_input,json_output):
 		cwd = os.getcwd()
 		filepath = os.path.join(cwd,'data')
@@ -526,5 +527,6 @@ def enrichTickets():
 
 	wikiURLs('final_ticket_data.json','wiki_urls.json')
 
-hopperObjects()
-enrichTickets()
+# hopperObjects()
+# enrichTickets()
+wikiData()
