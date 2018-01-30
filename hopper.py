@@ -493,7 +493,8 @@ def enrichTickets():
 					try:
 						an_object['venue_wikipedia_url'] = data['entities'][venue_id_wikidata]['sitelinks']['enwiki']['url']
 					except KeyError:
-						an_object['venue_wikipedia_url'] = 'No Wikipedia entry in English available.'
+						# an_object['venue_wikipedia_url'] = 'No Wikipedia entry in English available.'
+						an_object['venue_wikipedia_url'] = 'NULL'
 
 				for a_ticket in an_object['tickets']:
 					show_id_wikidata = a_ticket['show_id_wikidata']
@@ -507,7 +508,8 @@ def enrichTickets():
 						try:
 							a_ticket['show_wikipedia_url'] = data['entities'][show_id_wikidata]['sitelinks']['enwiki']['url']
 						except KeyError:
-							a_ticket['show_wikipedia_url'] = 'No Wikipedia entry in English available.'
+							# a_ticket['show_wikipedia_url'] = 'No Wikipedia entry in English available.'
+							a_ticket['show_wikipedia_url'] = 'NULL'
 
 					if writer_id_wikidata != 'NULL':
 						wikidata_request = requests.get('https://www.wikidata.org/wiki/Special:EntityData/' + writer_id_wikidata + '.json')
@@ -515,7 +517,8 @@ def enrichTickets():
 						try:
 							a_ticket['writer_wikipedia_url'] = data['entities'][writer_id_wikidata]['sitelinks']['enwiki']['url']
 						except KeyError:
-							a_ticket['writer_wikipedia_url'] = 'No Wikipedia entry in English available.'
+							# a_ticket['writer_wikipedia_url'] = 'No Wikipedia entry in English available.'
+							a_ticket['writer_wikipedia_url'] = 'NULL'
 
 				all_data.append(an_object)
 
