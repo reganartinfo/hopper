@@ -30,13 +30,13 @@ var redIcon = new ticketIcon({iconUrl: 'http://icon-park.com/imagefiles/location
 
 // http://youmightnotneedjquery.com/
 // AJAX request
-var request = new XMLHttpRequest();
-request.open('GET', 'data/final_ticket_data.json', true);
+var dataRequest = new XMLHttpRequest();
+dataRequest.open('GET', 'data/wiki_urls.json', true);
 
-request.onload = function() {
-  if (request.status >= 200 && request.status < 400) {
+dataRequest.onload = function() {
+  if (dataRequest.status >= 200 && dataRequest.status < 400) {
     // success!
-    var hopperData = JSON.parse(request.responseText);
+    var hopperData = JSON.parse(dataRequest.responseText);
     hopperData.forEach(function(hdata){
       var venueName = hdata.venue_name_ibdb;
       var venueAddress = hdata.venue_address_ibdb_googlezip;
@@ -44,9 +44,35 @@ request.onload = function() {
       var venueLng = hdata.google_geocode_api[0].geometry.location.lng;
       var tickets = hdata.tickets;
       var ticketCount = tickets.length;
-      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount+'<br/>';
+      var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount+'<br/>'+'<div id=\'wiki-article\'></div>';
 
-      var ticketPop = ''
+      var wikiURL = hdata.venue_wikipedia_url;
+      if (wikiURL != 'NULL') {
+        var wikiStart = 'http://en.wikipedia.org/w/api.php?action=parse&format=json&prop=text&section=0&page=';
+        var wikiEnd = '&callback=?';
+        var wikiSlug = wikiURL.substring(wikiURL.lastIndexOf('/') + 1);
+        var wikiEndpoint = wikiStart+wikiSlug+wikiEnd;
+
+        $(document).ready(function(){
+          $.ajax({
+              type: 'GET',
+              url: wikiEndpoint,
+              contentType: 'application/json; charset=utf-8',
+              async: false,
+              dataType: 'json',
+              success: function (data, textStatus, jqXHR) {
+
+                  var markup = data.parse.text['*'];
+                  var blurb = $('<div></div>').html(markup);
+                  $('#wiki-article').html($(blurb).find('p'));
+              },
+              error: function (errorMessage) {
+              }
+          });
+        });
+      };
+
+      var ticketPop = '';
       tickets.forEach(function(tdata){
         var eventTitle = tdata.event_title_ibdb;
         var eventYear = tdata.event_year_hopper;
@@ -55,16 +81,16 @@ request.onload = function() {
           writerName = 'N/A';
         };
         var wikiID = tdata.writer_id_wikidata;
-        ticketPop = ticketPop+'<br/>Production: <i>'+eventTitle+'</i> ('+eventYear+')<br/>Written by: '+writerName;
+        ticketPop = ticketPop+'<br/>Production: <i>'+eventTitle+'</i>, '+eventYear+'<br/>Written by: '+writerName;
         if (wikiID == 'NULL') {
-          var wikiPop = ''
+          var wikiPop = '';
         } else {
           var wikiPop = ' (<a href="https://www.wikidata.org/wiki/'+wikiID+'" target="_blank">'+wikiID+'</a>)';
         };
         ticketPop = ticketPop+wikiPop+'<br/>';
       });
 
-      addressPop = addressPop+ticketPop
+      addressPop = addressPop+ticketPop;
 
       L.marker([venueLat, venueLng], {icon: redIcon}).addTo(mymap).bindPopup(addressPop);
 
@@ -74,8 +100,8 @@ request.onload = function() {
   }
 };
 
-request.onerror = function() {
+dataRequest.onerror = function() {
   // there was a connection error of some sort
 };
 
-request.send();
+dataRequest.send();
