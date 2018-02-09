@@ -46,11 +46,6 @@ request.onload = function() {
       var ticketCount = tickets.length;
       var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount+'<br/>';
 
-      var venueAbstract = hdata.venue_abstract;
-      if (venueAbstract != 'NULL') {
-        addressPop = addressPop+venueAbstract;
-      };
-
       var ticketPop = ''
       tickets.forEach(function(tdata){
         var eventTitle = tdata.event_title_ibdb;

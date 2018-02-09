@@ -3,7 +3,6 @@ from collections import Counter
 from itertools import cycle
 from urllib.request import urlretrieve
 import csv, json, re, requests, os
-import wikipediaapi
 
 # functions for artwork by Edward Hopper in the Whitney's permanent collection (referred to as 'Objects' in TMS)
 def hopperObjects():
@@ -473,7 +472,6 @@ def enrichTickets():
 		# function is commented out for now to keep data flowing while illustrating process
 	addGeocodes('nested_ticket_data.json','final_ticket_data.json','AIzaSyDElq1yMMEFinn3sYd3I02xrJSxKShesBg')
 
-def mediaWiki():
 	def wikiURLs(json_input,json_output):
 		cwd = os.getcwd()
 		filepath = os.path.join(cwd,'data')
@@ -526,55 +524,7 @@ def mediaWiki():
 
 			json.dump(all_data,open(json_output,'w'),indent=4)
 
-	# wikiURLs('final_ticket_data.json','wiki_urls.json')
+	wikiURLs('final_ticket_data.json','wiki_urls.json')
 
-	def wikiArticles(wiki_url):
-		global abstract_global
-
-		url_start = 'http://en.wikipedia.org/w/api.php?action=parse&format=json&prop=text&section=0&page='
-		page_slug = wiki_url.rsplit('/', 1)[1]
-		api_query = url_start + page_slug
-		api_request = requests.get(api_query)
-		data_raw = json.loads(api_request.text)
-		data_html = data_raw['parse']['text']['*']
-		data_soup = BeautifulSoup(data_html,'html.parser')
-		abstract_local = data_soup.findAll('p')
-
-		sub1 = re.sub('href="','href="https://en.wikipedia.org',str(abstract_local))
-		
-		try:
-			sub2 = re.sub('</p>, <p>','</p><p>',sub1)
-			abstract_global = sub2[1:-1]
-		except:
-			abstract_global = sub1[1:-1]
-		
-		return abstract_global
-
-	def venueArticles(json_input,json_output):
-		cwd = os.getcwd()
-		filepath = os.path.join(cwd,'data')
-		if not os.path.exists(filepath):
-			os.mkdir(filepath)
-		os.chdir(filepath)
-
-		with open(json_input,'r') as f:
-			encoder = json.load(f)
-
-			all_data = []
-			for an_object in encoder:
-				venue_wikipedia_url = an_object['venue_wikipedia_url']
-				an_object['venue_abstract'] = 'NULL'
-
-				if venue_wikipedia_url != 'NULL':
-					wikiArticles(venue_wikipedia_url)
-					an_object['venue_abstract'] = abstract_global
-
-				all_data.append(an_object)
-
-			json.dump(all_data,open(json_output,'w'),indent=4)
-
-	venueArticles('wiki_urls.json','final_ticket_data.json')
-
-# hopperObjects()
-# enrichTickets()
-mediaWiki()
+hopperObjects()
+enrichTickets()
