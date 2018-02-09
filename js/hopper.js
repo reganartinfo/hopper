@@ -60,7 +60,7 @@ request.onload = function() {
           writerName = 'N/A';
         };
         var wikiID = tdata.writer_id_wikidata;
-        ticketPop = ticketPop+'<b>Production:</b> <i>'+eventTitle+'</i> ('+eventYear+')<br/><b>Written by:</b> '+writerName;
+        ticketPop = ticketPop+'<b>Production:</b> <i>'+eventTitle+'</i> ('+eventYear+')<br/><b>Written by:</b> '+writerName+'<br/>';
         if (wikiID == 'NULL') {
           var wikiPop = ''
         } else {
