@@ -46,6 +46,11 @@ request.onload = function() {
       var ticketCount = tickets.length;
       var addressPop = '<b>'+venueName+'</b><br/>'+venueAddress+'<br/>Ticket Count: '+ticketCount+'<br/>';
 
+      var venueAbstract = hdata.venue_abstract;
+      if (venueAbstract != 'NULL') {
+        addressPop = addressPop+venueAbstract;
+      };
+
       var ticketPop = ''
       tickets.forEach(function(tdata){
         var eventTitle = tdata.event_title_ibdb;
@@ -55,7 +60,7 @@ request.onload = function() {
           writerName = 'N/A';
         };
         var wikiID = tdata.writer_id_wikidata;
-        ticketPop = ticketPop+'<br/><b>Production:</b> <i>'+eventTitle+'</i> ('+eventYear+')<br/><b>Written by:</b> '+writerName;
+        ticketPop = ticketPop+'<br/>Production: <i>'+eventTitle+'</i> ('+eventYear+')<br/>Written by: '+writerName;
         if (wikiID == 'NULL') {
           var wikiPop = ''
         } else {
