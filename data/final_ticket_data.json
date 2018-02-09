@@ -23,7 +23,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "29",
                 "scope_content_hopper": "Monday Evening - Second Balcony - $1.10 - B 15/13 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Bart_(writer)"
             }
         ],
         "google_geocode_api": [
@@ -122,7 +124,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/48th_Street_Theatre",
+        "venue_abstract": "<p>The <b>48th Street Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> at 157 West <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/48th_Street_(Manhattan)\" title=\"48th Street (Manhattan)\">48th Street</a> in <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>. It was built by longtime Broadway producer <a href=\"https://en.wikipedia.org/wiki/William_A._Brady\" title=\"William A. Brady\">William A. Brady</a> and designed by architect <a class=\"new\" href=\"https://en.wikipedia.org/w/index.php?title=William_A._Swasey&amp;action=edit&amp;redlink=1\" title=\"William A. Swasey (page does not exist)\">William A. Swasey</a>.<sup class=\"reference\" id=\"cite_ref-Bloom2007_1-0\"><a href=\"https://en.wikipedia.org#cite_note-Bloom2007-1\">[1]</a></sup> The venue was also called the <b>Equity 48th Street Theatre</b> (1922\u201325) and the <b>Windsor Theatre</b> (1937\u201343).</p>"
     },
     {
         "venue_id_ibdb": "1035",
@@ -148,7 +152,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.00 - D 120/118 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Chodorov"
             }
         ],
         "google_geocode_api": [
@@ -257,7 +263,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Neil_Simon_Theatre",
+        "venue_abstract": "<p>The <b>Neil Simon Theatre</b>, formerly the <b>Alvin Theatre</b>, is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">venue</a> built in 1927 and located at 250 West <a href=\"https://en.wikipedia.org/wiki/52nd_Street_(Manhattan)\" title=\"52nd Street (Manhattan)\">52nd Street</a> in the <a href=\"https://en.wikipedia.org/wiki/Theater_District,_Manhattan\" title=\"Theater District, Manhattan\">Theater District</a> of <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown</a> <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>.</p><p>As of 2011, the record for its longest running show is held by the musical <i><a href=\"https://en.wikipedia.org/wiki/Hairspray_(musical)\" title=\"Hairspray (musical)\">Hairspray</a></i>, which opened August 15, 2002, and ran for 2,642 performances before closing on January 4, 2009.</p>"
     },
     {
         "venue_id_ibdb": "1036",
@@ -283,7 +291,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "18",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.00 - C N 2 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             }
         ],
         "google_geocode_api": [
@@ -382,7 +392,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Ambassador_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Ambassador Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 219 West <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/49th_Street_(Manhattan)\" title=\"49th Street (Manhattan)\">49th Street</a> between <a href=\"https://en.wikipedia.org/wiki/Broadway_(Manhattan)\" title=\"Broadway (Manhattan)\">Broadway</a> and <a href=\"https://en.wikipedia.org/wiki/Eighth_Avenue_(Manhattan)\" title=\"Eighth Avenue (Manhattan)\">8th Avenue</a> in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>.</p><p>Designed by architect <a href=\"https://en.wikipedia.org/wiki/Herbert_J._Krapp\" title=\"Herbert J. Krapp\">Herbert J. Krapp</a> for the <a href=\"https://en.wikipedia.org/wiki/The_Shubert_Organization\" title=\"The Shubert Organization\">Shuberts</a>, the structure is noteworthy in that it is situated diagonally on its site to fit the maximum number of seats possible. Its external appearance, indistinguishable from many other Broadway houses, does not hint at the unusual layout within. The building has been designated a <a href=\"https://en.wikipedia.org/wiki/New_York_City_Landmarks_Preservation_Commission\" title=\"New York City Landmarks Preservation Commission\">New York City landmark</a>. The theatre's proscenium opening is 44\u00a0feet 11\u00a0inches (13.69\u00a0m) with a <a href=\"https://en.wikipedia.org/wiki/Fly_system#Grid_deck\" title=\"Fly system\">grid height</a> of 54\u00a0feet 9\u00a0inches (16.69\u00a0m).</p><p>The theatre opened on February 11, 1921, with the <a href=\"https://en.wikipedia.org/wiki/Musical_theatre\" title=\"Musical theatre\">musical</a> <i>The Rose Girl</i>. The Shuberts sold the property in 1935, and for the next two decades it was used as a movie theater and television studio for <a href=\"https://en.wikipedia.org/wiki/NBC\" title=\"NBC\">NBC</a> and later the <a href=\"https://en.wikipedia.org/wiki/DuMont_Television_Network\" title=\"DuMont Television Network\">DuMont Television Network</a>, when it was known as the Ambassador Tele-Theatre. In 1956, the Shuberts assumed ownership again and returned it to strictly legitimate use.</p>"
     },
     {
         "venue_id_ibdb": "1360",
@@ -408,7 +420,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "1",
                 "scope_content_hopper": "Monday Evening - First Balcony - $1.50 - G 106/105 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Totheroh"
             },
             {
                 "file_id_hopper": "EJHA.0851",
@@ -426,7 +440,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "26",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.00 - A 6/8 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/A._A._Milne"
             },
             {
                 "file_id_hopper": "EJHA.0876",
@@ -444,7 +460,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "26",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.10 - F 23/25 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Dead_End_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Sidney_Kingsley"
             }
         ],
         "google_geocode_api": [
@@ -543,7 +561,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Belasco_Theatre",
+        "venue_abstract": "<p>The <b>Belasco Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> theatre opened in 1907 at 111 West 44th Street in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>, New York City. Originally known as the <b>Stuyvesant Theatre</b>, it was designed by <a href=\"https://en.wikipedia.org/wiki/Architect\" title=\"Architect\">architect</a> <a href=\"https://en.wikipedia.org/wiki/George_Keister\" title=\"George Keister\">George Keister</a> for <a href=\"https://en.wikipedia.org/wiki/Impresario\" title=\"Impresario\">impresario</a> <a href=\"https://en.wikipedia.org/wiki/David_Belasco\" title=\"David Belasco\">David Belasco</a>. The interior featured <a href=\"https://en.wikipedia.org/wiki/Tiffany_glass\" title=\"Tiffany glass\">Tiffany</a> lighting and ceiling panels, rich woodwork and expansive <a href=\"https://en.wikipedia.org/wiki/Mural\" title=\"Mural\">murals</a> by American artist <a href=\"https://en.wikipedia.org/wiki/Everett_Shinn\" title=\"Everett Shinn\">Everett Shinn</a>, and a ten-room duplex <a href=\"https://en.wikipedia.org/wiki/Penthouse_apartment\" title=\"Penthouse apartment\">penthouse</a> <a href=\"https://en.wikipedia.org/wiki/Apartment\" title=\"Apartment\">apartment</a> that Belasco utilized as combination living quarters/office space.</p>"
     },
     {
         "venue_id_ibdb": "1069",
@@ -569,7 +589,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "27",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.10 - Right J 1/2 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Kenyon_Nicholson"
             },
             {
                 "file_id_hopper": "EJHA.0871",
@@ -587,7 +609,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "19",
                 "scope_content_hopper": "Saturday Evening - Orchestra - $? - Left BB 3/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Fyodor_Dostoyevsky"
             }
         ],
         "google_geocode_api": [
@@ -696,7 +720,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_J._Friedman_Theatre",
+        "venue_abstract": "<p>The <b>Samuel J. Friedman Theatre</b> (formerly the <b>Biltmore Theatre</b>) is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 261 West <a href=\"https://en.wikipedia.org/wiki/47th_Street_(Manhattan)\" title=\"47th Street (Manhattan)\">47th Street</a> in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>, <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>.</p>"
     },
     {
         "venue_id_ibdb": "1003",
@@ -722,7 +748,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "16",
                 "scope_content_hopper": "Wednesday Matinee - Gallery - $.50 - A 11/13 - B 11 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Gregorio_Mart%C3%ADnez_Sierra"
             },
             {
                 "file_id_hopper": "EJHA.0791",
@@ -740,7 +768,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "27",
                 "scope_content_hopper": "Thursday Evening - Balcony - $1.10 - F 103/104 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Three_Sisters_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Chekhov"
             },
             {
                 "file_id_hopper": "EJHA.0810",
@@ -758,7 +788,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "11",
                 "scope_content_hopper": "Friday Evening - Gallery - $.50 - A 5/7 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Cherry_Orchard",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Chekhov"
             },
             {
                 "file_id_hopper": "EJHA.0857",
@@ -776,7 +808,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "20",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $1.10 E 7/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Eva_Le_Gallienne"
             }
         ],
         "google_geocode_api": [
@@ -868,7 +902,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1025",
@@ -894,7 +930,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "8",
                 "scope_content_hopper": "Thursday Evening - Balcony - $1.00 - I 108/107 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Henry_McAlpin_Benrimo"
             }
         ],
         "google_geocode_api": [
@@ -986,7 +1024,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Daly%27s_63rd_Street_Theatre",
+        "venue_abstract": "<p><b>Daly's 63rd Street Theatre</b> was a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Broadway_theater\" title=\"Broadway theater\">Broadway theater</a>, which was active from 1921 to 1941. It was built in 1914 as the <b>63rd Street Music Hall</b> and had several other names between 1921 and 1938. The building was demolished in 1957.</p>"
     },
     {
         "venue_id_ibdb": "1117",
@@ -1012,7 +1052,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Friday Evening - Family Circle - $1.10 - C 22/20 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Schnitzler"
             },
             {
                 "file_id_hopper": "EJHA.0808",
@@ -1030,7 +1072,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "12",
                 "scope_content_hopper": "Wednesday Evening - Mezzanine - $2.50 - B 6/8 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0828",
@@ -1048,7 +1092,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "25",
                 "scope_content_hopper": "Tuesday Evening - Mezzanine - $1.50 - G 6/8/10 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Ruth_Draper"
             },
             {
                 "file_id_hopper": "EJHA.0835",
@@ -1066,7 +1112,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Wednesday Evening - Family Circle - $1.00 - 21 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             }
         ],
         "google_geocode_api": [
@@ -1158,7 +1206,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Comedy_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Comedy Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 110 West 41st Street in <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a> that opened in 1909. It presented the first Broadway appearances of <a href=\"https://en.wikipedia.org/wiki/Katharine_Cornell\" title=\"Katharine Cornell\">Katharine Cornell</a> and <a href=\"https://en.wikipedia.org/wiki/Ruth_Draper\" title=\"Ruth Draper\">Ruth Draper</a>, as well as <a href=\"https://en.wikipedia.org/wiki/Eugene_O%27Neill\" title=\"Eugene O'Neill\">Eugene O'Neill</a>'s first Broadway play. Shuttered in the wake of the Depression, it reopened in 1937 as the Mercury Theatre \u2014 the venue for <a href=\"https://en.wikipedia.org/wiki/Orson_Welles\" title=\"Orson Welles\">Orson Welles</a>'s <a href=\"https://en.wikipedia.org/wiki/Caesar_(Mercury_Theatre)\" title=\"Caesar (Mercury Theatre)\">groundbreaking adaptation</a> of Shakespeare's <i>Julius Caesar</i> and other productions for the <a href=\"https://en.wikipedia.org/wiki/Mercury_Theatre\" title=\"Mercury Theatre\">Mercury Theatre</a> repertory company. In 1939 it began presenting classic <a href=\"https://en.wikipedia.org/wiki/Yiddish_theatre\" title=\"Yiddish theatre\">Yiddish theatre</a>. The building was demolished in 1942.</p>"
     },
     {
         "venue_id_ibdb": "1120",
@@ -1184,7 +1234,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Monday Evening - Second Balcony - $1.10 - Right E 2/1 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0824",
@@ -1202,7 +1254,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "12",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $2.00 - Left G 4/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0840",
@@ -1220,7 +1274,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "5",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.00 - Left F 12/11 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Gladys_Buchanan_Unger"
             }
         ],
         "google_geocode_api": [
@@ -1329,7 +1385,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Cort_Theatre",
+        "venue_abstract": "<p><span style=\"font-size: small;\"><span id=\"coordinates\"><a href=\"https://en.wikipedia.org/wiki/Geographic_coordinate_system\" title=\"Geographic coordinate system\">Coordinates</a>: <span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://en.wikipedia.org//tools.wmflabs.org/geohack/geohack.php?pagename=Cort_Theatre&amp;params=40.75921_N_73.983_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40\u00b045\u203233\u2033N</span> <span class=\"longitude\">73\u00b058\u203259\u2033W</span></span></span><span class=\"geo-multi-punct\">\ufeff / \ufeff</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.759210\u00b0N 73.983\u00b0W</span><span style=\"display:none\">\ufeff / <span class=\"geo\">40.759210; -73.983</span></span></span></a></span></span></span></p><p>The <b>Cort Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 138 <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/48th_Street_(Manhattan)\" title=\"48th Street (Manhattan)\">West 48th Street</a> in the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theater_District,_New_York\" title=\"Theater District, New York\">Theater District</a> of <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">midtown Manhattan</a> in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>. It is owned by the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Organization\" title=\"Shubert Organization\">Shubert Organization</a>, the largest owner of Broadway theatres.</p><p>The Cort Theatre was designated a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/List_of_New_York_City_Landmarks\" title=\"List of New York City Landmarks\">New York City landmark</a> on November 17, 1987.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1251",
@@ -1355,7 +1413,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "19",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.65 - J 8/6 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Two_Orphans_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Adolphe_d%27Ennery"
             }
         ],
         "google_geocode_api": [
@@ -1447,7 +1507,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Majestic_Theatre_(Columbus_Circle)",
+        "venue_abstract": "<p>The <b>Majestic Theatre</b> was a theatre located at 5 <a href=\"https://en.wikipedia.org/wiki/Columbus_Circle\" title=\"Columbus Circle\">Columbus Circle</a>, the present site of the <a href=\"https://en.wikipedia.org/wiki/Time_Warner_Center\" title=\"Time Warner Center\">Time Warner Center</a>. Designed in 1903 by <a href=\"https://en.wikipedia.org/wiki/John_H._Duncan\" title=\"John H. Duncan\">John H. Duncan</a>, the architect of <a href=\"https://en.wikipedia.org/wiki/Grant%27s_Tomb\" title=\"Grant's Tomb\">Grant's Tomb</a>, it was built at a time that Columbus Circle was expected to become a theatre district. Initially, the theatre, which seated about 1355, hosted original musicals and operettas, including <i><a href=\"https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1902_musical)\" title=\"The Wizard of Oz (1902 musical)\">The Wizard of Oz</a></i> and <i><a href=\"https://en.wikipedia.org/wiki/Babes_in_Toyland_(operetta)\" title=\"Babes in Toyland (operetta)\">Babes in Toyland</a></i>, and some plays. It was renamed <b>Park Theatre</b> in 1911, opening with <i><a href=\"https://en.wikipedia.org/wiki/The_Quaker_Girl\" title=\"The Quaker Girl\">The Quaker Girl</a></i>, and it again presented plays, musicals and operettas. The <a href=\"https://en.wikipedia.org/wiki/Shubert_family\" title=\"Shubert family\">Shuberts</a>, <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Florenz_Ziegfeld,_Jr.\" title=\"Florenz Ziegfeld, Jr.\">Florenz Ziegfeld</a> and Billy Minsky, in succession, owned the house but did not find success there. In 1925, it was purchased by <a href=\"https://en.wikipedia.org/wiki/William_Randolph_Hearst\" title=\"William Randolph Hearst\">William Randolph Hearst</a>, renamed <b>Cosmopolitan Theatre</b>, and played movies as well as live theatre. During the period it was used as a playhouse, its last name was amended to include <b>International Theatre</b>.<sup class=\"reference\" id=\"cite_ref-IBDB_1-0\"><a href=\"https://en.wikipedia.org#cite_note-IBDB-1\">[1]</a></sup></p><p>In 1949, NBC leased the theatre, and made it into a television studio rechristened as <b>NBC International Theatre</b>, with the <i><a href=\"https://en.wikipedia.org/wiki/Admiral_Broadway_Revue\" title=\"Admiral Broadway Revue\">Admiral Broadway Revue</a></i> being one of the first TV shows aired from this location. In 1953, the venue hosted a portion of the <a href=\"https://en.wikipedia.org/wiki/25th_Academy_Awards\" title=\"25th Academy Awards\">25th Academy Awards</a>, which was the first Academy Awards to be broadcast, as well as the first to be aired from both New York City and Los Angeles.</p><p>The theater was demolished in 1954 to allow for wider sidewalks in front of the <a href=\"https://en.wikipedia.org/wiki/New_York_Coliseum\" title=\"New York Coliseum\">New York Coliseum</a>,<sup class=\"reference\" id=\"cite_ref-IBDB_1-1\"><a href=\"https://en.wikipedia.org#cite_note-IBDB-1\">[1]</a></sup> which in turn was torn down to make way for the <a href=\"https://en.wikipedia.org/wiki/Time_Warner_Center\" title=\"Time Warner Center\">Time Warner Center</a> in 2000.</p>"
     },
     {
         "venue_id_ibdb": "1147",
@@ -1473,7 +1535,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "12",
                 "scope_content_hopper": "Saturday Evening - Balcony - $2.20 - A 19/21 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Macbeth",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/William_Shakespeare"
             }
         ],
         "google_geocode_api": [
@@ -1572,7 +1636,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Ethel_Barrymore_Theatre",
+        "venue_abstract": "<p>The <b>Ethel Barrymore Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 243 West <a href=\"https://en.wikipedia.org/wiki/47th_Street_(Manhattan)\" title=\"47th Street (Manhattan)\">47th Street</a> in the <a href=\"https://en.wikipedia.org/wiki/Theater_District,_Manhattan\" title=\"Theater District, Manhattan\">Theater District</a> of <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown</a> <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, New York City. It is named for acclaimed actress <a href=\"https://en.wikipedia.org/wiki/Ethel_Barrymore\" title=\"Ethel Barrymore\">Ethel Barrymore</a>.</p>"
     },
     {
         "venue_id_ibdb": "1158",
@@ -1598,7 +1664,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "30",
                 "scope_content_hopper": "Thursday Matinee - Orchestra - $2.20 - H 105/106/107/108.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0872",
@@ -1616,7 +1684,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "6",
                 "scope_content_hopper": "Wednesday Evening - Orchestra - $2.20 - Right P 2/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Tobacco_Road_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Kirkland"
             }
         ],
         "google_geocode_api": [
@@ -1725,7 +1795,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_O%27Neill_Theatre",
+        "venue_abstract": "<p>The <b>Eugene O'Neill Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 230 West 49th Street in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>.</p><p>Designed by architect <a href=\"https://en.wikipedia.org/wiki/Herbert_J._Krapp\" title=\"Herbert J. Krapp\">Herbert J. Krapp</a>, it was built for the <a href=\"https://en.wikipedia.org/wiki/The_Shubert_Organization\" title=\"The Shubert Organization\">Shuberts</a> as part of a theatre-<a href=\"https://en.wikipedia.org/wiki/Hotel\" title=\"Hotel\">hotel</a> complex named for 19th century <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Tragedian\" title=\"Tragedian\">tragedian</a> <a href=\"https://en.wikipedia.org/wiki/Edwin_Forrest\" title=\"Edwin Forrest\">Edwin Forrest</a>. The <b>Forrest Theatre</b> opened on November 24, 1925, with the <a href=\"https://en.wikipedia.org/wiki/Musical_theatre\" title=\"Musical theatre\">musical</a> <i>Mayflowers</i> as its premiere production.</p><p>The venue was renamed the <b>Coronet Theatre</b> in 1945, with renovations by architects <a href=\"https://en.wikipedia.org/wiki/Walker_%26_Gillette\" title=\"Walker &amp; Gillette\">Walker &amp; Gillette</a>. In 1959 it was rechristened the O'Neill in honor of <a href=\"https://en.wikipedia.org/wiki/Eugene_O%27Neill\" title=\"Eugene O'Neill\">the American playwright</a> by then-owner Lester Osterman. It later was purchased by <a href=\"https://en.wikipedia.org/wiki/Playwright\" title=\"Playwright\">playwright</a> <a href=\"https://en.wikipedia.org/wiki/Neil_Simon\" title=\"Neil Simon\">Neil Simon</a>, who sold it to <a href=\"https://en.wikipedia.org/wiki/Jujamcyn_Theaters\" title=\"Jujamcyn Theaters\">Jujamcyn Theaters</a> in 1982.</p>"
     },
     {
         "venue_id_ibdb": "1154",
@@ -1751,7 +1823,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "4",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $1.00 - A 4/2 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Waterloo_Bridge_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Robert_E._Sherwood"
             }
         ],
         "google_geocode_api": [
@@ -1843,7 +1917,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Fulton_Theatre",
+        "venue_abstract": "<p>The <b>Fulton Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 210 West 46th Street in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York</a> that was opened in 1911. It was renamed the <b>Helen Hayes Theatre</b> in 1955. The theatre was demolished in 1982. Since the former Little Theatre became the <a href=\"https://en.wikipedia.org/wiki/Helen_Hayes_Theatre\" title=\"Helen Hayes Theatre\">current Helen Hayes Theare</a>, the Fulton Theatre is now sometimes referred to as the <b>First Helen Hayes Theatre</b>.</p>"
     },
     {
         "venue_id_ibdb": "1164",
@@ -1869,7 +1945,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "11",
                 "scope_content_hopper": "Monday Evening - Second Balcony - $1.10 - C 16 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Owen_Davis"
             }
         ],
         "google_geocode_api": [
@@ -1961,7 +2039,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Gaiety_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Gaiety Theatre</b> was a Broadway theatre at 1547 Broadway in New York City from 1909 until 1982, when it was torn down.</p><p>The office building that housed the theatre, the Gaiety Building, has been called the Black <a href=\"https://en.wikipedia.org/wiki/Tin_Pan_Alley\" title=\"Tin Pan Alley\">Tin Pan Alley</a> for the number of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/African-American\" title=\"African-American\">African-American</a> songwriters, who rented office space there.</p><p>It was designed by Herts &amp; Tallant and owned by <a href=\"https://en.wikipedia.org/wiki/George_M._Cohan\" title=\"George M. Cohan\">George M. Cohan</a>. The theatre introduced revolutionary concepts of a sunken orchestra (the previous configuration had the orchestra on the same level as the seats in front of the stage) and also not having pillars obstructing sight lines for the balcony.<sup class=\"reference\" id=\"cite_ref-broadway_1-0\"><a href=\"https://en.wikipedia.org#cite_note-broadway-1\">[1]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1491",
@@ -1987,7 +2067,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "27",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $1.10 - H 12/14 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Frank"
             }
         ],
         "google_geocode_api": [
@@ -2079,7 +2161,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Garrick_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Garrick Theatre</b> was a 910-seat theatre built in 1890 and located on 67 West 35th Street <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York</a>. Designed by <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Francis_Hatch_Kimball\" title=\"Francis Hatch Kimball\">Francis Hatch Kimball</a> and commissioned by <a href=\"https://en.wikipedia.org/wiki/Edward_Harrigan\" title=\"Edward Harrigan\">Edward Harrigan</a>, who managed the theatre, originally named Harrigan's Theatre, until 1895. Richard Mansfield took over from Harrigan, renaming it the Garrick. <a href=\"https://en.wikipedia.org/wiki/Charles_Frohman\" title=\"Charles Frohman\">Charles Frohman</a> assumed management from 1896 until 1915. The <a href=\"https://en.wikipedia.org/wiki/The_Shubert_Organization\" title=\"The Shubert Organization\">Shuberts</a> bought it in 1916 and leased it to <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Otto_Kahn\" title=\"Otto Kahn\">Otto Kahn</a>, who named it <a href=\"https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_du_Vieux-Colombier\" title=\"Th\u00e9\u00e2tre du Vieux-Colombier\">Th\u00e9\u00e2tre du Vieux-Colombier</a>. Kahn later gave it to the <a href=\"https://en.wikipedia.org/wiki/Theatre_Guild\" title=\"Theatre Guild\">Theatre Guild</a>. The Shuberts resumed management in 1925 and after three years of <a href=\"https://en.wikipedia.org/wiki/Burlesque\" title=\"Burlesque\">burlesque</a>, it closed in 1929. The building was demolished in 1932.</p>"
     },
     {
         "venue_id_ibdb": "1176",
@@ -2105,7 +2189,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "23",
                 "scope_content_hopper": "Monday Evening - Orchestra - $2.75 - B 5.",
-                "note_hopper": "Missing ticket!?"
+                "note_hopper": "Missing ticket!?",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Love_for_Love",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/William_Congreve"
             },
             {
                 "file_id_hopper": "EJHA.0775",
@@ -2123,7 +2209,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "6",
                 "scope_content_hopper": "Monday Evening - Mezzanine - $1.65 - F 6/8 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Wiers-Jenssen"
             }
         ],
         "google_geocode_api": [
@@ -2208,7 +2296,9 @@
                     "intersection"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1179",
@@ -2234,7 +2324,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.10 - M 8/6 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r"
             },
             {
                 "file_id_hopper": "EJHA.0762",
@@ -2252,7 +2344,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "1",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.65 - K 14/16 - J 12 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Franz_Werfel"
             },
             {
                 "file_id_hopper": "EJHA.0763",
@@ -2270,7 +2364,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "5",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.65 - K 2/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Nikolai_Evreinov"
             },
             {
                 "file_id_hopper": "EJHA.0772",
@@ -2288,7 +2384,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "10",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $2.20 - J 109/110 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Franz_Werfel"
             },
             {
                 "file_id_hopper": "EJHA.0778",
@@ -2306,7 +2404,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "23",
                 "scope_content_hopper": "Thursday Evening - Balcony - $1.10 - M 7/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Pygmalion_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
             },
             {
                 "file_id_hopper": "EJHA.0815",
@@ -2324,7 +2424,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "29",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $2.75 - D 14/C14 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Doctor%27s_Dilemma_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
             },
             {
                 "file_id_hopper": "EJHA.0870",
@@ -2342,7 +2444,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "15",
                 "scope_content_hopper": "Tuesday Evening - Orchestra - $2.20 - B 108/107 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Valley_Forge_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Maxwell_Anderson"
             },
             {
                 "file_id_hopper": "EJHA.0849",
@@ -2360,7 +2464,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "24",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.00 - J 14/16 Part One & Part Two - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Mourning_Becomes_Electra",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_O%27Neill"
             }
         ],
         "google_geocode_api": [
@@ -2459,7 +2565,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/August_Wilson_Theatre",
+        "venue_abstract": "<p>The <b>August Wilson Theatre</b>, located at 245 West <a href=\"https://en.wikipedia.org/wiki/52nd_Street_(Manhattan)\" title=\"52nd Street (Manhattan)\">52nd Street</a> in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>, is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a>.</p>"
     },
     {
         "venue_id_ibdb": "1412",
@@ -2485,7 +2593,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "27",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.10 - A 16/14 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Hamlet",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/William_Shakespeare"
             }
         ],
         "google_geocode_api": [
@@ -2577,7 +2687,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Colonial_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Colonial Theatre</b> in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a> was at <a href=\"https://en.wikipedia.org/wiki/Broadway_(Manhattan)\" title=\"Broadway (Manhattan)\">Broadway</a> and 62nd Street on the <a href=\"https://en.wikipedia.org/wiki/Upper_West_Side\" title=\"Upper West Side\">Upper West Side</a>, <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>.<sup class=\"reference\" id=\"cite_ref-Aberjhani&amp;West_290_1-0\"><a href=\"https://en.wikipedia.org#cite_note-Aberjhani&amp;West_290-1\">[1]</a></sup> Originally named the <b>Colonial Music Hall</b>, it was opened in 1905 by Fred Thompson and Elmer Dundy.<sup class=\"reference\" id=\"cite_ref-Krefft_2-0\"><a href=\"https://en.wikipedia.org#cite_note-Krefft-2\">[2]</a></sup> Designed by <a href=\"https://en.wikipedia.org/wiki/George_Keister\" title=\"George Keister\">George Keister</a>, the theater had a seating capacity of 1,293.<sup class=\"reference\" id=\"cite_ref-Krefft_2-1\"><a href=\"https://en.wikipedia.org#cite_note-Krefft-2\">[2]</a></sup></p><p>Thompson and Dundy operated the theater for only a few weeks before selling it to <a href=\"https://en.wikipedia.org/wiki/Percy_G._Williams\" title=\"Percy G. Williams\">Percy G. Williams</a>, who changed the name to Colonial Theatre. It functioned exclusively as a vaudeville house during Williams' stewardship.<sup class=\"reference\" id=\"cite_ref-Krefft_2-2\"><a href=\"https://en.wikipedia.org#cite_note-Krefft-2\">[2]</a></sup> In 1912, under the management of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/B.F._Keith\" title=\"B.F. Keith\">B.F. Keith</a>, the name was changed to Keith's Colonial Theatre. Five years later the theater was under the management of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/E.F._Albee\" title=\"E.F. Albee\">E.F. Albee</a>, who renamed it the New Colonial Theatre.<sup class=\"reference\" id=\"cite_ref-Krefft_2-3\"><a href=\"https://en.wikipedia.org#cite_note-Krefft-2\">[2]</a></sup></p><p>During the early 1920s, the New Colonial Theatre was a venue for many African-American musical revues such as <a href=\"https://en.wikipedia.org/wiki/Eubie_Blake\" title=\"Eubie Blake\">Eubie Blake</a> and <a href=\"https://en.wikipedia.org/wiki/Noble_Sissle\" title=\"Noble Sissle\">Noble Sissle</a>'s show <i><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Chocolate_Dandies\" title=\"Chocolate Dandies\">Chocolate Dandies</a></i> and <a href=\"https://en.wikipedia.org/wiki/James_P._Johnson\" title=\"James P. Johnson\">James P. Johnson</a>'s <i>Runnin' Wild</i>. The latter show premiered at the theater on October 29, 1923, and was instrumental in making an international dance craze of the <a href=\"https://en.wikipedia.org/wiki/Charleston_(dance)\" title=\"Charleston (dance)\">Charleston</a>.<sup class=\"reference\" id=\"cite_ref-Aberjhani&amp;West_290_1-1\"><a href=\"https://en.wikipedia.org#cite_note-Aberjhani&amp;West_290-1\">[1]</a></sup></p><p>From 1925 to 1932, the theater was named <b>Hampden's Theatre</b>, and under the management of actor <a href=\"https://en.wikipedia.org/wiki/Walter_Hampden\" title=\"Walter Hampden\">Walter Hampden</a> it presented <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shakespearian\" title=\"Shakespearian\">Shakespearian</a> fare and classic drama. In 1932, as the RKO Colonial Theatre, it became a movie house. After 1956, the theater was owned by <a href=\"https://en.wikipedia.org/wiki/American_Broadcasting_Company\" title=\"American Broadcasting Company\">ABC</a> and later <a href=\"https://en.wikipedia.org/wiki/NBC\" title=\"NBC\">NBC</a>, and functioned as a television studio until 1971.<sup class=\"reference\" id=\"cite_ref-Krefft_2-4\"><a href=\"https://en.wikipedia.org#cite_note-Krefft-2\">[2]</a></sup> <a href=\"https://en.wikipedia.org/wiki/Rebekah_Harkness\" title=\"Rebekah Harkness\">Rebekah Harkness</a> subsequently purchased the theater, renovated it, and reopened it in 1974 as the <b>Harkness Theatre</b>. After presenting a sporadic schedule of ballet and legitimate theater, it closed in 1977,<sup class=\"reference\" id=\"cite_ref-Krefft_2-5\"><a href=\"https://en.wikipedia.org#cite_note-Krefft-2\">[2]</a></sup> and the building was razed later that year.<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"https://en.wikipedia.org#cite_note-3\">[3]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1197",
@@ -2603,7 +2715,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "23",
                 "scope_content_hopper": "Thursday Matinee - Second Balcony - $1.00 - A 105/104 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Journey%27s_End",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/R._C._Sherriff"
             },
             {
                 "file_id_hopper": "EJHA.0846",
@@ -2621,7 +2735,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "22",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.00 - A 4/6/8/10 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Good_Fairy_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r"
             },
             {
                 "file_id_hopper": "EJHA.0854",
@@ -2639,7 +2755,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Monday Evening - ?? - $1.10 - A 2/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Late_Christopher_Bean",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0879",
@@ -2657,7 +2775,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "20",
                 "scope_content_hopper": "Thursday Evening - Second Balcony - $1.10 - C 105/106 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Libel!",
+                "writer_wikipedia_url": "NULL"
             }
         ],
         "google_geocode_api": [
@@ -2756,7 +2876,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Sondheim_Theatre",
+        "venue_abstract": "<p><b>Stephen Sondheim Theatre</b>, formerly <b>Henry Miller's Theatre</b>, is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> operated by <a href=\"https://en.wikipedia.org/wiki/Roundabout_Theatre_Company\" title=\"Roundabout Theatre Company\">Roundabout Theatre Company</a>, located at 124 West 43rd Street, between Broadway and 6th Avenue, in <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>'s <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theater_District\" title=\"Theater District\">Theater District</a>.</p>"
     },
     {
         "venue_id_ibdb": "1216",
@@ -2782,7 +2904,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "21",
                 "scope_content_hopper": "Thursday Evening - Balcony - $2.00 - 4 K 3/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Strange_Interlude",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_O%27Neill"
             }
         ],
         "google_geocode_api": [
@@ -2891,7 +3015,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1220",
@@ -2917,7 +3043,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "5",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $2.00 - B AA 9/10 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Harry_B._Smith"
             }
         ],
         "google_geocode_api": [
@@ -3016,7 +3144,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/New_Century_Theatre",
+        "venue_abstract": "<p>The <b>New Century Theatre</b> was a legitimate <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 932 <a href=\"https://en.wikipedia.org/wiki/Seventh_Avenue_(Manhattan)\" title=\"Seventh Avenue (Manhattan)\">Seventh Avenue</a> at West 58th Street in midtown <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>.</p><p>The house, which seated 1,700, was designed by architect <a href=\"https://en.wikipedia.org/wiki/Herbert_J._Krapp\" title=\"Herbert J. Krapp\">Herbert J. Krapp</a> for the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Organization\" title=\"Shubert Organization\">Shuberts</a>, who originally named it <b>Jolson's 59th Street Theatre</b> after <a href=\"https://en.wikipedia.org/wiki/Al_Jolson\" title=\"Al Jolson\">Al Jolson</a>, who opened the venue with a <a href=\"https://en.wikipedia.org/wiki/Sigmund_Romberg\" title=\"Sigmund Romberg\">Sigmund Romberg</a> <a href=\"https://en.wikipedia.org/wiki/Musical_theatre\" title=\"Musical theatre\">musical</a> called <i>Bombo</i> on October 6, 1921. Two years later, it hosted the <a href=\"https://en.wikipedia.org/wiki/United_States\" title=\"United States\">American</a> premiere of <a href=\"https://en.wikipedia.org/wiki/Konstantin_Stanislavski\" title=\"Konstantin Stanislavski\">Konstantin Stanislavski</a>'s <a href=\"https://en.wikipedia.org/wiki/Moscow_Art_Theatre\" title=\"Moscow Art Theatre\">Moscow Art Theatre</a>.<sup class=\"reference\" id=\"cite_ref-IBDb_New_Century_1-0\"><a href=\"https://en.wikipedia.org#cite_note-IBDb_New_Century-1\">[1]</a></sup></p><p>The theatre underwent several name changes over the next several years. As the <b>Central Park Theatre</b>, it was operated as a movie house. It then became the <b>Shakespeare Theatre</b>, the <b><a href=\"https://en.wikipedia.org/wiki/Molly_Picon\" title=\"Molly Picon\">Molly Picon</a> Theatre</b>, the <b>Venice Theatre</b>, and twice reverted to <b>Jolson Theatre</b>, honoring Jolson, before finally being refurbished and reopened as the New Century on April 8, 1944.<sup class=\"reference\" id=\"cite_ref-IBDb_New_Century_1-1\"><a href=\"https://en.wikipedia.org#cite_note-IBDb_New_Century-1\">[1]</a></sup></p><p>Its place in theatrical history was established in 1937 when <a href=\"https://en.wikipedia.org/wiki/Orson_Welles\" title=\"Orson Welles\">Orson Welles</a> and his <a href=\"https://en.wikipedia.org/wiki/Federal_Theatre_Project\" title=\"Federal Theatre Project\">Federal Theatre Project</a> troupe marched their production of <i><a href=\"https://en.wikipedia.org/wiki/The_Cradle_Will_Rock\" title=\"The Cradle Will Rock\">The Cradle Will Rock</a></i> into what was then called the Venice Theatre and performed the musical from seats in the audience in defiance of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Actors_Equity\" title=\"Actors Equity\">Actors Equity</a>.</p><p>In the late 1940s and early 1950s, NBC used the New Century for live television programs performed before a studio audience. The theatre was shuttered in 1954 and demolished in 1962.</p>"
     },
     {
         "venue_id_ibdb": "1235",
@@ -3042,7 +3172,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "10",
                 "scope_content_hopper": "Monday Evening - 2nd Balcony - $1.00 - A 18/20 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Volpone",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Jonson"
             }
         ],
         "google_geocode_api": [
@@ -3144,7 +3276,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Liberty_Theatre",
+        "venue_abstract": "<p>The <b>Liberty Theatre</b> was a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Broadway_theater\" title=\"Broadway theater\">Broadway theater</a> from 1904 to 1933,<sup class=\"reference\" id=\"cite_ref-ibdb-liberty_1-0\"><a href=\"https://en.wikipedia.org#cite_note-ibdb-liberty-1\">[1]</a></sup> located at 236 West 42nd Street in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>. It was built by the partnership of <a href=\"https://en.wikipedia.org/wiki/Klaw_and_Erlanger\" title=\"Klaw and Erlanger\">Klaw and Erlanger</a>.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"https://en.wikipedia.org#cite_note-2\">[2]</a></sup></p><p>From 1933 until the late 1980s the Liberty operated continuously as a movie theatre. In 1992 the then vacant theatre was purchased by the City of New York along with many other properties as part of the New 42nd Street renovation project.</p><p>In 1996 it was used for a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Staged_reading\" title=\"Staged reading\">staged reading</a> of <a href=\"https://en.wikipedia.org/wiki/T._S._Eliot\" title=\"T. S. Eliot\">T. S. Eliot</a>'s poem <i><a href=\"https://en.wikipedia.org/wiki/The_Waste_Land\" title=\"The Waste Land\">The Waste Land</a></i>, with actress <a href=\"https://en.wikipedia.org/wiki/Fiona_Shaw\" title=\"Fiona Shaw\">Fiona Shaw</a>, directed by <a href=\"https://en.wikipedia.org/wiki/Deborah_Warner\" title=\"Deborah Warner\">Deborah Warner</a>. <i><a href=\"https://en.wikipedia.org/wiki/The_New_York_Times\" title=\"The New York Times\">The New York Times</a></i> review described the theater as \"derelict\".<sup class=\"reference\" id=\"cite_ref-3\"><a href=\"https://en.wikipedia.org#cite_note-3\">[3]</a></sup> The facade of the Liberty theater was later absorbed into <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Ripley%27s_Odditorium\" title=\"Ripley's Odditorium\">Ripley's Odditorium</a>, which is part of the <a href=\"https://en.wikipedia.org/wiki/Forest_City_Enterprises\" title=\"Forest City Enterprises\">Forest City Enterprises</a> entertainment complex.<sup class=\"reference\" id=\"cite_ref-4\"><a href=\"https://en.wikipedia.org#cite_note-4\">[4]</a></sup></p><p>In 2011, renovations were completed and the former Liberty Theatre auditorium was converted for use as a <a href=\"https://en.wikipedia.org/wiki/Famous_Dave%27s\" title=\"Famous Dave's\">Famous Dave's</a> restaurant.<sup class=\"reference\" id=\"cite_ref-5\"><a href=\"https://en.wikipedia.org#cite_note-5\">[5]</a></sup> The main auditorium space is now a rental event space, with the restaurant portion along 42nd Street operating as the Liberty Diner.<sup class=\"reference\" id=\"cite_ref-6\"><a href=\"https://en.wikipedia.org#cite_note-6\">[6]</a></sup></p><p>In 2015, <a href=\"https://en.wikipedia.org/wiki/Cynthia_von_Buhler\" title=\"Cynthia von Buhler\">Cynthia von Buhler</a>'s <a href=\"https://en.wikipedia.org/wiki/Speakeasy_Dollhouse\" title=\"Speakeasy Dollhouse\">Speakeasy Dollhouse</a>: Ziegfeld's Midnight Frolic is staged as an immersive play in the theater. The story investigates the death of silent film star and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Ziegfeld_Girl\" title=\"Ziegfeld Girl\">Ziegfeld Girl</a> Olive Thomas.<sup class=\"reference\" id=\"cite_ref-BBW_Liberty_Theatre_7-0\"><a href=\"https://en.wikipedia.org#cite_note-BBW_Liberty_Theatre-7\">[7]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1240",
@@ -3170,7 +3304,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "15",
                 "scope_content_hopper": "Wednesday Evening - Second Balcony - $1.10 - E 14/16 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Kearney_(playwright)"
             }
         ],
         "google_geocode_api": [
@@ -3279,7 +3415,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Longacre_Theatre",
+        "venue_abstract": "<p><span style=\"font-size: small;\"><span id=\"coordinates\"><a href=\"https://en.wikipedia.org/wiki/Geographic_coordinate_system\" title=\"Geographic coordinate system\">Coordinates</a>: <span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://en.wikipedia.org//tools.wmflabs.org/geohack/geohack.php?pagename=Longacre_Theatre&amp;params=40_45_37.5_N_73_59_08.73_W_region:US-NY_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40\u00b045\u203237.5\u2033N</span> <span class=\"longitude\">73\u00b059\u203208.73\u2033W</span></span></span><span class=\"geo-multi-punct\">\ufeff / \ufeff</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.760417\u00b0N 73.9857583\u00b0W</span><span style=\"display:none\">\ufeff / <span class=\"geo\">40.760417; -73.9857583</span></span></span></a></span></span></span></p><p>The <b>Longacre Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> theatre located at 220 West 48th Street in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>.</p>"
     },
     {
         "venue_id_ibdb": "9821",
@@ -3305,7 +3443,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "19",
                 "scope_content_hopper": "Wednesday Evening - Second Balcony - $1.00 - C 101/102 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Berkeley_Square_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/John_L._Balderston"
             }
         ],
         "google_geocode_api": [
@@ -3421,7 +3561,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1182",
@@ -3447,7 +3589,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "11",
                 "scope_content_hopper": "Saturday Evening - Orchestra - $.55 - B 103/104 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Murder_in_the_Cathedral",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/T._S._Eliot"
             }
         ],
         "google_geocode_api": [
@@ -3556,7 +3700,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Ed_Sullivan_Theater",
+        "venue_abstract": "<p>The <b>Ed Sullivan Theater</b> is a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theater</a> located at 1697\u20131699 <a href=\"https://en.wikipedia.org/wiki/Broadway_(Manhattan)\" title=\"Broadway (Manhattan)\">Broadway</a>, between <a href=\"https://en.wikipedia.org/wiki/53rd_Street_(Manhattan)\" title=\"53rd Street (Manhattan)\">West 53rd</a> and <a href=\"https://en.wikipedia.org/wiki/54th_Street_(Manhattan)\" title=\"54th Street (Manhattan)\">West 54th</a>, in the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theater_District\" title=\"Theater District\">Theater District</a> in <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, New York City.<sup class=\"reference\" id=\"cite_ref-AIA_1-0\"><a href=\"https://en.wikipedia.org#cite_note-AIA-1\">[1]</a></sup> The theater has been used as a venue for live and taped <a href=\"https://en.wikipedia.org/wiki/CBS\" title=\"CBS\">CBS</a> broadcasts since 1936.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"https://en.wikipedia.org#cite_note-2\">[2]</a></sup></p><p>It is historically known as the home of <i><a href=\"https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show\" title=\"The Ed Sullivan Show\">The Ed Sullivan Show</a></i> and the site of <a href=\"https://en.wikipedia.org/wiki/The_Beatles\" title=\"The Beatles\">The Beatles</a>' US debut performance. It also housed <a href=\"https://en.wikipedia.org/wiki/Late_Show_with_David_Letterman\" title=\"Late Show with David Letterman\">David Letterman's tenure</a> of CBS' <i><a href=\"https://en.wikipedia.org/wiki/Late_Show_(CBS_TV_series)\" title=\"Late Show (CBS TV series)\">Late Show</a></i> from 1993 to 2015. The theatre currently houses <i><a href=\"https://en.wikipedia.org/wiki/The_Late_Show_with_Stephen_Colbert\" title=\"The Late Show with Stephen Colbert\">The Late Show with Stephen Colbert</a></i>, the second incarnation of the <i>Late Show</i> franchise. It is on the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/List_of_Registered_Historic_Places_in_New_York_County,_New_York\" title=\"List of Registered Historic Places in New York County, New York\">National Register of Historic Places</a>, and the interior has been designated a landmark by the <a href=\"https://en.wikipedia.org/wiki/New_York_City_Landmarks_Preservation_Commission\" title=\"New York City Landmarks Preservation Commission\">New York City Landmarks Preservation Commission</a>.</p>"
     },
     {
         "venue_id_ibdb": "1256",
@@ -3582,7 +3728,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "12",
                 "scope_content_hopper": "Wednesday Matinee - Balcony - $1.50 - D 118/120 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Green_Pastures",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Connelly"
             },
             {
                 "file_id_hopper": "EJHA.0875",
@@ -3600,7 +3748,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "13",
                 "scope_content_hopper": "Wednesday Evening - - $1.65 - A 106/108 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             }
         ],
         "google_geocode_api": [
@@ -3709,7 +3859,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Brooks_Atkinson_Theatre",
+        "venue_abstract": "<p>The <b>Brooks Atkinson Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> theater located at 256 West 47th Street in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">Manhattan</a>.</p><p>Designed by <a href=\"https://en.wikipedia.org/wiki/Architect\" title=\"Architect\">architect</a> <a href=\"https://en.wikipedia.org/wiki/Herbert_J._Krapp\" title=\"Herbert J. Krapp\">Herbert J. Krapp</a>, it was constructed as the <b>Mansfield Theatre</b> by the Chanin brothers in 1926. After 1933, the theatre fell into relative disuse until 1945, when Michael Myerberg bought and leased it to <a href=\"https://en.wikipedia.org/wiki/CBS\" title=\"CBS\">CBS</a> for television productions. Known as CBS Studio 59, the theater played host to the long-running panel shows <i><a href=\"https://en.wikipedia.org/wiki/What%27s_My_Line%3F\" title=\"What's My Line?\">What's My Line?</a></i> and <i><a href=\"https://en.wikipedia.org/wiki/I%27ve_Got_a_Secret\" title=\"I've Got a Secret\">I've Got a Secret</a></i>.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup> In 1960, it was renamed after the former <i><a href=\"https://en.wikipedia.org/wiki/The_New_York_Times\" title=\"The New York Times\">New York Times</a></i> theater critic, <a href=\"https://en.wikipedia.org/wiki/Brooks_Atkinson\" title=\"Brooks Atkinson\">Brooks Atkinson</a>, and returned to legitimate use. The <a href=\"https://en.wikipedia.org/wiki/Nederlander_Organization\" title=\"Nederlander Organization\">Nederlander Organization</a> purchased part-ownership of the Atkinson in 1967.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"https://en.wikipedia.org#cite_note-2\">[2]</a></sup></p><p>In 2000, the interior was refurbished with restored decorative finishes by <a href=\"https://en.wikipedia.org/wiki/EverGreene_Architectural_Arts\" title=\"EverGreene Architectural Arts\">EverGreene Architectural Arts</a>, and now the theatre is once again illuminated by the original chandelier that had been removed over 40 years prior. It has 1,069 seats and is one of the Nederlander Organization's nine Broadway houses.</p>"
     },
     {
         "venue_id_ibdb": "1262",
@@ -3735,7 +3887,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.65 - L 16/14 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_S._Brooks"
             },
             {
                 "file_id_hopper": "EJHA.0811",
@@ -3753,7 +3907,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "21",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.50 - D 110/111 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Wings_Over_Europe_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Nichols_(poet)"
             },
             {
                 "file_id_hopper": "EJHA.0820",
@@ -3771,7 +3927,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Wednesday Evening - $2.50 - E 107/108 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Porgy_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Dorothy_Heyward"
             },
             {
                 "file_id_hopper": "EJHA.0836",
@@ -3789,7 +3947,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "26",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.00 - K 26 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_House_of_Connelly",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Green_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0877",
@@ -3807,7 +3967,9 @@
                 "event_month_hopper": "NULL",
                 "event_date_hopper": "NULL",
                 "scope_content_hopper": "Balcony - $1.00 - RA 8/9 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Lynn_Riggs"
             }
         ],
         "google_geocode_api": [
@@ -3906,7 +4068,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Al_Hirschfeld_Theatre",
+        "venue_abstract": "<p>The <b>Al Hirschfeld Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> theatre located at 302 West 45th Street in midtown <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>.</p><p>Designed by architect <a href=\"https://en.wikipedia.org/wiki/G._Albert_Lansburgh\" title=\"G. Albert Lansburgh\">G. Albert Lansburgh</a> for <a href=\"https://en.wikipedia.org/wiki/Vaudeville\" title=\"Vaudeville\">vaudeville</a> promoter <a href=\"https://en.wikipedia.org/wiki/Martin_Beck_(vaudeville)\" title=\"Martin Beck (vaudeville)\">Martin Beck</a>, the theatre opened as the <b>Martin Beck Theatre</b> with a production of <i>Madame Pompadour</i> on November 11, 1924. It was the only theatre in New York that was owned outright without a <a href=\"https://en.wikipedia.org/wiki/Mortgage_loan\" title=\"Mortgage loan\">mortgage</a>. It was designed to be the most opulent theatre of its time, and has dressing rooms for 200 actors. The theatre has a seating capacity of 1,424 for musicals.</p><p>Famous appearances include <a href=\"https://en.wikipedia.org/wiki/Basil_Rathbone\" title=\"Basil Rathbone\">Basil Rathbone</a> as Romeo with <a href=\"https://en.wikipedia.org/wiki/Katharine_Cornell\" title=\"Katharine Cornell\">Katharine Cornell</a> as Juliet in December 1934; Burgess Meredith as Mio in <i><a href=\"https://en.wikipedia.org/wiki/Winterset_(play)\" title=\"Winterset (play)\">Winterset</a></i> in 1935; <a href=\"https://en.wikipedia.org/wiki/Richard_Gere\" title=\"Richard Gere\">Richard Gere</a> in <i>Bent</i>; <a href=\"https://en.wikipedia.org/wiki/Frank_Langella\" title=\"Frank Langella\">Frank Langella</a> in <i>Dracula</i>; <a href=\"https://en.wikipedia.org/wiki/Elizabeth_Taylor\" title=\"Elizabeth Taylor\">Elizabeth Taylor</a> in <i>The Little Foxes</i>; <a href=\"https://en.wikipedia.org/wiki/Christina_Applegate\" title=\"Christina Applegate\">Christina Applegate</a> as the title role in <i>Sweet Charity</i>; <a href=\"https://en.wikipedia.org/wiki/David_Hyde_Pierce\" title=\"David Hyde Pierce\">David Hyde Pierce</a> as Lt. Coffi in the musical <i>Curtains</i>; and <a href=\"https://en.wikipedia.org/wiki/Daniel_Radcliffe\" title=\"Daniel Radcliffe\">Daniel Radcliffe</a> in the latest revival of <i><a href=\"https://en.wikipedia.org/wiki/How_to_Succeed_in_Business_Without_Really_Trying\" title=\"How to Succeed in Business Without Really Trying\">How to Succeed in Business Without Really Trying</a></i>.</p><p>On June 21, 2003, it was renamed the <a href=\"https://en.wikipedia.org/wiki/Al_Hirschfeld\" title=\"Al Hirschfeld\">Al Hirschfeld</a> Theatre in honor of the caricaturist famous for his drawings of Broadway celebrities, and reopened on November 23, 2003, with a revival of the musical <i><a href=\"https://en.wikipedia.org/wiki/Wonderful_Town\" title=\"Wonderful Town\">Wonderful Town</a></i>.</p><p>This is one of five theatres owned and operated by <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Jujamcyn_Amusement_Corporation\" title=\"Jujamcyn Amusement Corporation\">Jujamcyn Theatres</a>, who purchased it in 1965 from the Beck family.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1262",
@@ -3932,7 +4096,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.65 - L 16/14 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_S._Brooks"
             },
             {
                 "file_id_hopper": "EJHA.0811",
@@ -3950,7 +4116,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "21",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.50 - D 110/111 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Wings_Over_Europe_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Nichols_(poet)"
             },
             {
                 "file_id_hopper": "EJHA.0820",
@@ -3968,7 +4136,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Wednesday Evening - $2.50 - E 107/108 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Porgy_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Dorothy_Heyward"
             },
             {
                 "file_id_hopper": "EJHA.0836",
@@ -3986,7 +4156,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "26",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.00 - K 26 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_House_of_Connelly",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Green_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0877",
@@ -4004,7 +4176,9 @@
                 "event_month_hopper": "NULL",
                 "event_date_hopper": "NULL",
                 "scope_content_hopper": "Balcony - $1.00 - RA 8/9 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Lynn_Riggs"
             }
         ],
         "google_geocode_api": [
@@ -4103,7 +4277,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Al_Hirschfeld_Theatre",
+        "venue_abstract": "<p>The <b>Al Hirschfeld Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> theatre located at 302 West 45th Street in midtown <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>.</p><p>Designed by architect <a href=\"https://en.wikipedia.org/wiki/G._Albert_Lansburgh\" title=\"G. Albert Lansburgh\">G. Albert Lansburgh</a> for <a href=\"https://en.wikipedia.org/wiki/Vaudeville\" title=\"Vaudeville\">vaudeville</a> promoter <a href=\"https://en.wikipedia.org/wiki/Martin_Beck_(vaudeville)\" title=\"Martin Beck (vaudeville)\">Martin Beck</a>, the theatre opened as the <b>Martin Beck Theatre</b> with a production of <i>Madame Pompadour</i> on November 11, 1924. It was the only theatre in New York that was owned outright without a <a href=\"https://en.wikipedia.org/wiki/Mortgage_loan\" title=\"Mortgage loan\">mortgage</a>. It was designed to be the most opulent theatre of its time, and has dressing rooms for 200 actors. The theatre has a seating capacity of 1,424 for musicals.</p><p>Famous appearances include <a href=\"https://en.wikipedia.org/wiki/Basil_Rathbone\" title=\"Basil Rathbone\">Basil Rathbone</a> as Romeo with <a href=\"https://en.wikipedia.org/wiki/Katharine_Cornell\" title=\"Katharine Cornell\">Katharine Cornell</a> as Juliet in December 1934; Burgess Meredith as Mio in <i><a href=\"https://en.wikipedia.org/wiki/Winterset_(play)\" title=\"Winterset (play)\">Winterset</a></i> in 1935; <a href=\"https://en.wikipedia.org/wiki/Richard_Gere\" title=\"Richard Gere\">Richard Gere</a> in <i>Bent</i>; <a href=\"https://en.wikipedia.org/wiki/Frank_Langella\" title=\"Frank Langella\">Frank Langella</a> in <i>Dracula</i>; <a href=\"https://en.wikipedia.org/wiki/Elizabeth_Taylor\" title=\"Elizabeth Taylor\">Elizabeth Taylor</a> in <i>The Little Foxes</i>; <a href=\"https://en.wikipedia.org/wiki/Christina_Applegate\" title=\"Christina Applegate\">Christina Applegate</a> as the title role in <i>Sweet Charity</i>; <a href=\"https://en.wikipedia.org/wiki/David_Hyde_Pierce\" title=\"David Hyde Pierce\">David Hyde Pierce</a> as Lt. Coffi in the musical <i>Curtains</i>; and <a href=\"https://en.wikipedia.org/wiki/Daniel_Radcliffe\" title=\"Daniel Radcliffe\">Daniel Radcliffe</a> in the latest revival of <i><a href=\"https://en.wikipedia.org/wiki/How_to_Succeed_in_Business_Without_Really_Trying\" title=\"How to Succeed in Business Without Really Trying\">How to Succeed in Business Without Really Trying</a></i>.</p><p>On June 21, 2003, it was renamed the <a href=\"https://en.wikipedia.org/wiki/Al_Hirschfeld\" title=\"Al Hirschfeld\">Al Hirschfeld</a> Theatre in honor of the caricaturist famous for his drawings of Broadway celebrities, and reopened on November 23, 2003, with a revival of the musical <i><a href=\"https://en.wikipedia.org/wiki/Wonderful_Town\" title=\"Wonderful Town\">Wonderful Town</a></i>.</p><p>This is one of five theatres owned and operated by <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Jujamcyn_Amusement_Corporation\" title=\"Jujamcyn Amusement Corporation\">Jujamcyn Theatres</a>, who purchased it in 1965 from the Beck family.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1267",
@@ -4129,7 +4305,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "15",
                 "scope_content_hopper": "Tuesday Matinee - Second Balcony - $1.10 - A 3/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Master_Builder",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Henrik_Ibsen"
             },
             {
                 "file_id_hopper": "EJHA.0825",
@@ -4147,7 +4325,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "19",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.00 - RC A 4/3 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Monckton_Hoffe"
             },
             {
                 "file_id_hopper": "EJHA.0829",
@@ -4165,7 +4345,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "5",
                 "scope_content_hopper": "Wednesday Evening - Second Balcony - $1.00 - Left C 4/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0856",
@@ -4183,7 +4365,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Wednesday Evening - Second Balcony - $1.10 - Left A 8/7 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Success_Story_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/John_Howard_Lawson"
             }
         ],
         "google_geocode_api": [
@@ -4282,7 +4466,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Maxine_Elliott_Theatre",
+        "venue_abstract": "<p><span class=\"nickname\">WOR Mutual Radio Theatre<br/>\nCBS Radio Playhouse No. 5<br/>\nCBS Television Studio No. 44</span></p><p>The <b>Maxine Elliott Theatre</b> was a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Broadway_theater\" title=\"Broadway theater\">Broadway theater</a> located at 109 West 39th Street in <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>. Built in 1908, it was demolished in 1960. The theater was designed by architect Benjamin Marshall of the Chicago firm <a href=\"https://en.wikipedia.org/wiki/Marshall_and_Fox\" title=\"Marshall and Fox\">Marshall and Fox</a>.</p><p>It was named for <a href=\"https://en.wikipedia.org/wiki/United_States\" title=\"United States\">U.S.</a> actress <a href=\"https://en.wikipedia.org/wiki/Maxine_Elliott\" title=\"Maxine Elliott\">Maxine Elliott</a>, who originally owned a 50 percent interest in it in partnership with <a href=\"https://en.wikipedia.org/wiki/The_Shubert_Organization\" title=\"The Shubert Organization\">The Shubert Organization</a>, making her one of the only female theater managers. She leased it to the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Federal_Theatre\" title=\"Federal Theatre\">Federal Theatre</a> in 1936; the following year, it was shut down by the government on the eve on the opening of <a href=\"https://en.wikipedia.org/wiki/Orson_Welles\" title=\"Orson Welles\">Orson Welles</a>'s production of <i><a href=\"https://en.wikipedia.org/wiki/The_Cradle_Will_Rock\" title=\"The Cradle Will Rock\">The Cradle Will Rock</a></i>.</p><p>In 1941, it became a radio studio and in 1948 was converted for television production, where the very first episodes of <a href=\"https://en.wikipedia.org/wiki/Ed_Sullivan\" title=\"Ed Sullivan\">Ed Sullivan</a>'s <i><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Toast_of_the_Town\" title=\"Toast of the Town\">Toast of the Town</a></i> variety show originated. In 1956, Elliott's heirs sold her share to the Shuberts, who then sold the property. It was demolished in 1960. The theatre, built in a thriving theatre district, was the only Broadway house below 41st Street.</p><p>The Maxine Elliot seated approximately 935 patrons. Throughout its lifetime, the Maxine Elliot housed a multitude of plays, including original works by <a href=\"https://en.wikipedia.org/wiki/George_Bernard_Shaw\" title=\"George Bernard Shaw\">George Bernard Shaw</a>, <a href=\"https://en.wikipedia.org/wiki/John_Millington_Synge\" title=\"John Millington Synge\">John Millington Synge</a>, <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Lady_Augusta_Gregory\" title=\"Lady Augusta Gregory\">Lady Augusta Gregory</a>, <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Lord_Dunsany\" title=\"Lord Dunsany\">Lord Dunsany</a>, <a href=\"https://en.wikipedia.org/wiki/Lillian_Hellman\" title=\"Lillian Hellman\">Lillian Hellman</a> and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Somerset_Maugham\" title=\"Somerset Maugham\">Somerset Maugham</a>. Only three of its productions were <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Musical_comedy\" title=\"Musical comedy\">musicals</a>, including one <a href=\"https://en.wikipedia.org/wiki/Opera\" title=\"Opera\">opera</a>.</p>"
     },
     {
         "venue_id_ibdb": "1278",
@@ -4308,7 +4494,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "28",
                 "scope_content_hopper": "Wednesday Evening - Balcony - H 7/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Craig%27s_Wife",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0818",
@@ -4326,7 +4514,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "20",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.00 - J 20/18 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/John_Drinkwater_(playwright)"
             }
         ],
         "google_geocode_api": [
@@ -4418,7 +4608,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Morosco_Theatre",
+        "venue_abstract": "<p>The <b>Morosco Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> near <a href=\"https://en.wikipedia.org/wiki/Times_Square\" title=\"Times Square\">Times Square</a> in New York City from 1917 to 1982. It housed many notable productions and its demolition, along with four adjacent theaters, was controversial.<sup class=\"reference\" id=\"cite_ref-ibdb_2-0\"><a href=\"https://en.wikipedia.org#cite_note-ibdb-2\">[2]</a></sup><sup class=\"reference\" id=\"cite_ref-1917-02-05_3-0\"><a href=\"https://en.wikipedia.org#cite_note-1917-02-05-3\">[3]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1278",
@@ -4444,7 +4636,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "28",
                 "scope_content_hopper": "Wednesday Evening - Balcony - H 7/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Craig%27s_Wife",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0818",
@@ -4462,7 +4656,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "20",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.00 - J 20/18 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/John_Drinkwater_(playwright)"
             }
         ],
         "google_geocode_api": [
@@ -4561,7 +4757,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Morosco_Theatre",
+        "venue_abstract": "<p>The <b>Morosco Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> near <a href=\"https://en.wikipedia.org/wiki/Times_Square\" title=\"Times Square\">Times Square</a> in New York City from 1917 to 1982. It housed many notable productions and its demolition, along with four adjacent theaters, was controversial.<sup class=\"reference\" id=\"cite_ref-ibdb_2-0\"><a href=\"https://en.wikipedia.org#cite_note-ibdb-2\">[2]</a></sup><sup class=\"reference\" id=\"cite_ref-1917-02-05_3-0\"><a href=\"https://en.wikipedia.org#cite_note-1917-02-05-3\">[3]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1286",
@@ -4587,7 +4785,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Wednesday Matinee - Box - $3.00 - A - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0843",
@@ -4605,7 +4805,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Wednesday Matinee - Balcony - $1.00 - L 9/7 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             }
         ],
         "google_geocode_api": [
@@ -4714,7 +4916,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Nederlander_Theatre",
+        "venue_abstract": "<p>The <b>David T. Nederlander Theatre</b> (formerly the <b>Billy Rose Theatre</b> and <b>National Theatre</b>, commonly shortened to the <b>Nederlander Theatre</b>) is a 1,232-seat <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Broadway_theater\" title=\"Broadway theater\">Broadway theater</a> located at 208 West 41st Street, in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>. One of the <a href=\"https://en.wikipedia.org/wiki/Nederlander_Organization\" title=\"Nederlander Organization\">Nederlander Organization</a>'s nine Broadway theaters, its legacy began with David Tobias Nederlander, for whom it is named. It is the southernmost theater in the theater district.<sup class=\"reference\" id=\"cite_ref-att_1-0\"><a href=\"https://en.wikipedia.org#cite_note-att-1\">[1]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1289",
@@ -4740,7 +4944,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "6",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $1.50 - Center - D 107/106 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Agnes_Morgan"
             },
             {
                 "file_id_hopper": "EJHA.0785",
@@ -4758,7 +4964,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "30",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $1.50 - Center F 104/105 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Dybbuk",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/S._Ansky"
             }
         ],
         "google_geocode_api": [
@@ -4867,7 +5075,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1144",
@@ -4893,7 +5103,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "3",
                 "scope_content_hopper": "Friday Evening - Second Balcony - $1.10 - A 18/20 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Captive_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Hornblow_Jr."
             },
             {
                 "file_id_hopper": "EJHA.0782",
@@ -4911,7 +5123,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "25",
                 "scope_content_hopper": "Friday Evening - Second Balcony - $1.10 - E 10/12 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Edward_E._Paramore_Jr."
             },
             {
                 "file_id_hopper": "EJHA.0787",
@@ -4929,7 +5143,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "3",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.10 - D 7/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Deval"
             },
             {
                 "file_id_hopper": "EJHA.0798",
@@ -4947,7 +5163,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "8",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $2.20 - F 101/102 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Sidney_Howard"
             },
             {
                 "file_id_hopper": "EJHA.0817",
@@ -4965,7 +5183,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "17",
                 "scope_content_hopper": "Friday Evening - Balcony - $1.50 - J 101/102 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_Ayer_Barnes"
             },
             {
                 "file_id_hopper": "EJHA.0839",
@@ -4983,7 +5203,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "19",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.00 - A 13/11 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Rudolf_Besier"
             },
             {
                 "file_id_hopper": "EJHA.0881",
@@ -5001,7 +5223,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "24",
                 "scope_content_hopper": "Tuesday Evening - Orchestra - $3.30 - B 109/110 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Hamlet",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/William_Shakespeare"
             }
         ],
         "google_geocode_api": [
@@ -5093,7 +5317,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Empire_Theatre_(41st_Street)",
+        "venue_abstract": "<p>The <b>Empire Theatre</b> in New York City was a prominent <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> in the first half of the twentieth century.</p>"
     },
     {
         "venue_id_ibdb": "1342",
@@ -5119,7 +5345,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "10",
                 "scope_content_hopper": "Monday Evening - Second Balcony - $1.65 - C 1/3 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Benn_Levy"
             },
             {
                 "file_id_hopper": "EJHA.0801",
@@ -5137,7 +5365,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "30",
                 "scope_content_hopper": "Friday Evening - Balcony - $2.20 - F 113/114 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Jack_McGowan"
             }
         ],
         "google_geocode_api": [
@@ -5236,7 +5466,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Kerr_Theatre",
+        "venue_abstract": "<p>The <b>Walter Kerr Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a>. Located at 219 West 48th Street, it is owned and operated by <a href=\"https://en.wikipedia.org/wiki/Jujamcyn_Theaters\" title=\"Jujamcyn Theaters\">Jujamcyn Theaters</a>.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup> One of the smaller auditoriums in the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theater_District\" title=\"Theater District\">Theater District</a>, it seats 975. Designed by Herbert J. Krapp for the Shubert family, it operated as the <b>Ritz Theatre</b> from 1921 to 1990, when it was renamed for playwright and critic <a href=\"https://en.wikipedia.org/wiki/Walter_Kerr\" title=\"Walter Kerr\">Walter Kerr</a>.</p>"
     },
     {
         "venue_id_ibdb": "1346",
@@ -5262,7 +5494,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "25",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $2.20 - Left DD 1/2 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Both_Your_Houses",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Maxwell_Anderson"
             }
         ],
         "google_geocode_api": [
@@ -5361,7 +5595,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Bernard_B._Jacobs_Theatre",
+        "venue_abstract": "<p>The <b>Bernard B. Jacobs Theatre</b>, formerly called the <b>Royale Theatre</b> and the <b>John Golden Theatre</b>, is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a href=\"https://en.wikipedia.org/wiki/Theater_(structure)\" title=\"Theater (structure)\">theatre</a> located at 242 West 45th Street (<a href=\"https://en.wikipedia.org/wiki/George_Abbott_Way\" title=\"George Abbott Way\">George Abbott Way</a>) in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>, New York City.</p>"
     },
     {
         "venue_id_ibdb": "1349",
@@ -5387,7 +5623,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "20",
                 "scope_content_hopper": "Monday Evening - Balcony - $1.10 - K 19/21 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_Kennedy"
             },
             {
                 "file_id_hopper": "EJHA.0861",
@@ -5405,7 +5643,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "10",
                 "scope_content_hopper": "Friday Evening - Balcony - $1.10 - H 16/14 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             }
         ],
         "google_geocode_api": [
@@ -5504,7 +5744,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/American_Airlines_Theatre",
+        "venue_abstract": "<p>The <b>American Airlines Theatre</b>, originally the <b>Selwyn Theatre</b>, is a historic <a href=\"https://en.wikipedia.org/wiki/Italian_Renaissance\" title=\"Italian Renaissance\">Italian Renaissance</a> style <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a> built in 1918. It was designed by <a href=\"https://en.wikipedia.org/wiki/George_Keister\" title=\"George Keister\">George Keister</a> and built by the Selwyn brothers. Used for musicals and other dramatic performances it was eventually converted for film. It was used briefly as a visitor's center but stood vacant for years until a 1997 renovation and restoration. It is located at 227 <a href=\"https://en.wikipedia.org/wiki/42nd_Street_(Manhattan)\" title=\"42nd Street (Manhattan)\">West 42nd Street</a>.</p>"
     },
     {
         "venue_id_ibdb": "1352",
@@ -5530,7 +5772,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "7",
                 "scope_content_hopper": "Thursday Evening - Mezzanine - $1.50 - Right J 18/16 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0867",
@@ -5548,7 +5792,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "29",
                 "scope_content_hopper": "Thursday Evening - Second Balcony - $1.10 - Left D 19/21 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Dodsworth_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Sidney_Howard"
             },
             {
                 "file_id_hopper": "EJHA.0873",
@@ -5566,7 +5812,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "8",
                 "scope_content_hopper": "Monday Evening - Orchestra - $4.40 - Right C 2/4.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Escape_Me_Never_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_Kennedy"
             }
         ],
         "google_geocode_api": [
@@ -5658,7 +5906,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Shubert_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Shubert Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 225 West 44th Street in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown</a> <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>.</p><p>Designed by <a href=\"https://en.wikipedia.org/wiki/Architect\" title=\"Architect\">architect</a> <a href=\"https://en.wikipedia.org/wiki/Henry_Beaumont_Herts\" title=\"Henry Beaumont Herts\">Henry Beaumont Herts</a>, it was named after <a href=\"https://en.wikipedia.org/wiki/Sam_S._Shubert\" title=\"Sam S. Shubert\">Sam S. Shubert</a>, the second oldest of the three brothers of the theatrical producing family. It shares a Venetian Renaissance facade with the adjoining <a href=\"https://en.wikipedia.org/wiki/Booth_Theatre\" title=\"Booth Theatre\">Booth Theatre</a>, which was constructed at the same time, although the two have distinctly different interiors. The two theatres are connected by a private road/sidewalk, \"<a href=\"https://en.wikipedia.org/wiki/Shubert_Alley\" title=\"Shubert Alley\">Shubert Alley</a>\". It opened on October 2, 1913 with Hamlet, starring Sir John Forbes-Robertson, followed by the October 21, 1913 opening of the <a href=\"https://en.wikipedia.org/wiki/George_Bernard_Shaw\" title=\"George Bernard Shaw\">George Bernard Shaw</a> play, <a href=\"https://en.wikipedia.org/wiki/Caesar_and_Cleopatra_(play)\" title=\"Caesar and Cleopatra (play)\"><i>Caesar and Cleopatra</i></a>, staged by the Forbes-Robertson Repertory Company.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup></p><p>The theatre's longest tenant was <i><a href=\"https://en.wikipedia.org/wiki/A_Chorus_Line\" title=\"A Chorus Line\">A Chorus Line</a></i>, which ran for 6,137 performances from 1975 to 1990 and set the record for longest running show in Broadway history. Later long runs have included <i><a href=\"https://en.wikipedia.org/wiki/Crazy_for_You_(musical)\" title=\"Crazy for You (musical)\">Crazy for You</a></i> (1992\u20131996), <i><a href=\"https://en.wikipedia.org/wiki/Chicago_(musical)\" title=\"Chicago (musical)\">Chicago</a></i> (1996\u20132003), <i><a href=\"https://en.wikipedia.org/wiki/Spamalot\" title=\"Spamalot\">Spamalot</a></i> (2005\u20132009), <i><a href=\"https://en.wikipedia.org/wiki/Memphis_(musical)\" title=\"Memphis (musical)\">Memphis</a></i> (2009\u20132012) and <i><a href=\"https://en.wikipedia.org/wiki/Matilda_the_Musical\" title=\"Matilda the Musical\">Matilda the Musical</a></i> (2013\u20132017). The theatre has also been a recurring venue for the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Tony_Awards\" title=\"Tony Awards\">Tony Awards</a>.</p><p>The top floor of the building houses the offices of the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Organization\" title=\"Shubert Organization\">Shubert Organization</a>. The theatre's auditorium and murals were restored in 1996. It has been designated a <a href=\"https://en.wikipedia.org/wiki/New_York_City_Landmarks_Preservation_Commission\" title=\"New York City Landmarks Preservation Commission\">New York City landmark</a>.</p>"
     },
     {
         "venue_id_ibdb": "1352",
@@ -5684,7 +5934,9 @@
                 "event_month_hopper": "5",
                 "event_date_hopper": "7",
                 "scope_content_hopper": "Thursday Evening - Mezzanine - $1.50 - Right J 18/16 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0867",
@@ -5702,7 +5954,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "29",
                 "scope_content_hopper": "Thursday Evening - Second Balcony - $1.10 - Left D 19/21 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Dodsworth_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Sidney_Howard"
             },
             {
                 "file_id_hopper": "EJHA.0873",
@@ -5720,7 +5974,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "8",
                 "scope_content_hopper": "Monday Evening - Orchestra - $4.40 - Right C 2/4.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Escape_Me_Never_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_Kennedy"
             }
         ],
         "google_geocode_api": [
@@ -5812,7 +6068,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Shubert_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Shubert Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 225 West 44th Street in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown</a> <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>.</p><p>Designed by <a href=\"https://en.wikipedia.org/wiki/Architect\" title=\"Architect\">architect</a> <a href=\"https://en.wikipedia.org/wiki/Henry_Beaumont_Herts\" title=\"Henry Beaumont Herts\">Henry Beaumont Herts</a>, it was named after <a href=\"https://en.wikipedia.org/wiki/Sam_S._Shubert\" title=\"Sam S. Shubert\">Sam S. Shubert</a>, the second oldest of the three brothers of the theatrical producing family. It shares a Venetian Renaissance facade with the adjoining <a href=\"https://en.wikipedia.org/wiki/Booth_Theatre\" title=\"Booth Theatre\">Booth Theatre</a>, which was constructed at the same time, although the two have distinctly different interiors. The two theatres are connected by a private road/sidewalk, \"<a href=\"https://en.wikipedia.org/wiki/Shubert_Alley\" title=\"Shubert Alley\">Shubert Alley</a>\". It opened on October 2, 1913 with Hamlet, starring Sir John Forbes-Robertson, followed by the October 21, 1913 opening of the <a href=\"https://en.wikipedia.org/wiki/George_Bernard_Shaw\" title=\"George Bernard Shaw\">George Bernard Shaw</a> play, <a href=\"https://en.wikipedia.org/wiki/Caesar_and_Cleopatra_(play)\" title=\"Caesar and Cleopatra (play)\"><i>Caesar and Cleopatra</i></a>, staged by the Forbes-Robertson Repertory Company.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup></p><p>The theatre's longest tenant was <i><a href=\"https://en.wikipedia.org/wiki/A_Chorus_Line\" title=\"A Chorus Line\">A Chorus Line</a></i>, which ran for 6,137 performances from 1975 to 1990 and set the record for longest running show in Broadway history. Later long runs have included <i><a href=\"https://en.wikipedia.org/wiki/Crazy_for_You_(musical)\" title=\"Crazy for You (musical)\">Crazy for You</a></i> (1992\u20131996), <i><a href=\"https://en.wikipedia.org/wiki/Chicago_(musical)\" title=\"Chicago (musical)\">Chicago</a></i> (1996\u20132003), <i><a href=\"https://en.wikipedia.org/wiki/Spamalot\" title=\"Spamalot\">Spamalot</a></i> (2005\u20132009), <i><a href=\"https://en.wikipedia.org/wiki/Memphis_(musical)\" title=\"Memphis (musical)\">Memphis</a></i> (2009\u20132012) and <i><a href=\"https://en.wikipedia.org/wiki/Matilda_the_Musical\" title=\"Matilda the Musical\">Matilda the Musical</a></i> (2013\u20132017). The theatre has also been a recurring venue for the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Tony_Awards\" title=\"Tony Awards\">Tony Awards</a>.</p><p>The top floor of the building houses the offices of the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Organization\" title=\"Shubert Organization\">Shubert Organization</a>. The theatre's auditorium and murals were restored in 1996. It has been designated a <a href=\"https://en.wikipedia.org/wiki/New_York_City_Landmarks_Preservation_Commission\" title=\"New York City Landmarks Preservation Commission\">New York City landmark</a>.</p>"
     },
     {
         "venue_id_ibdb": "1145",
@@ -5838,7 +6096,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "9",
                 "scope_content_hopper": "Thursday Evening - Second Balcony - $1.10 - C 1/3 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Walk_a_Little_Faster",
+                "writer_wikipedia_url": "NULL"
             },
             {
                 "file_id_hopper": "EJHA.0882",
@@ -5856,7 +6116,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "20",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $.55 - F 1/3 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Richard_II_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/William_Shakespeare"
             }
         ],
         "google_geocode_api": [
@@ -5972,7 +6234,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/St._James_Theatre",
+        "venue_abstract": "<p>The <b>St. James Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 246 W. 44th St. (between <a href=\"https://en.wikipedia.org/wiki/Seventh_Avenue_(Manhattan)\" title=\"Seventh Avenue (Manhattan)\">7th</a> &amp; <a href=\"https://en.wikipedia.org/wiki/Eighth_Avenue_(Manhattan)\" title=\"Eighth Avenue (Manhattan)\">8th Avenues</a>) in <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a>.</p>"
     },
     {
         "venue_id_ibdb": "1071",
@@ -5998,7 +6262,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "3",
                 "scope_content_hopper": "Thursday Evening - Balcony - $1.10 - 3 H 4/5 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Maxwell_Anderson"
             }
         ],
         "google_geocode_api": [
@@ -6097,7 +6363,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Booth_Theatre",
+        "venue_abstract": "<p>The <b>Booth Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 222 West 45th Street (<a href=\"https://en.wikipedia.org/wiki/George_Abbott_Way\" title=\"George Abbott Way\">George Abbott Way</a>) in midtown-<a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, New York City.</p><p>Architect <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Henry_B._Herts\" title=\"Henry B. Herts\">Henry B. Herts</a> designed the Booth and its companion <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Theatre_(Broadway)\" title=\"Shubert Theatre (Broadway)\">Shubert Theatre</a> as a back-to-back pair sharing a <a href=\"https://en.wikipedia.org/wiki/Venice\" title=\"Venice\">Venetian</a> <a href=\"https://en.wikipedia.org/wiki/Renaissance\" title=\"Renaissance\">Renaissance</a>-style <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Fa%C3%A7ade\" title=\"Fa\u00e7ade\">fa\u00e7ade</a>. Named in honor of famed 19th-century American actor <a href=\"https://en.wikipedia.org/wiki/Edwin_Booth\" title=\"Edwin Booth\">Edwin Booth</a>, brother of <a href=\"https://en.wikipedia.org/wiki/John_Wilkes_Booth\" title=\"John Wilkes Booth\">John Wilkes Booth</a>, the theater's 783-seat auditorium was intended to provide an intimate setting for dramatic and comedy plays. It opened on October 16, 1913, with <a href=\"https://en.wikipedia.org/wiki/Arnold_Bennett\" title=\"Arnold Bennett\">Arnold Bennett</a>'s play <i>The Great Adventure</i>.</p><p>The venue was the second New York City theatre to bear this name. The first, <a href=\"https://en.wikipedia.org/wiki/Booth%27s_Theatre\" title=\"Booth's Theatre\">Booth's Theatre</a>, was originally owned by Edwin Booth, and built by the architectural partnership Renwick &amp; Sands between 1867-69 on the corner of 23rd Street and 6th Avenue (see picture, below).</p><p>The Booth Theatre appeared in <i><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/The_West_Wing_(TV_series)\" title=\"The West Wing (TV series)\">The West Wing</a></i> episode <i><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Posse_Comitatus_(The_West_Wing)\" title=\"Posse Comitatus (The West Wing)\">Posse Comitatus</a></i> as venue for a fictitious charity performance of <i>War of the Roses</i> which President <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Jed_Bartlet\" title=\"Jed Bartlet\">Jed Bartlet</a> attended during the assassination of the Qumari Defence Minister <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Abdul_ibn_Shareef\" title=\"Abdul ibn Shareef\">Abdul ibn Shareef</a>.<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"https://en.wikipedia.org#cite_note-1\">[1]</a></sup></p><p>The box-office record was broken in 2013 by <a href=\"https://en.wikipedia.org/wiki/Bette_Midler\" title=\"Bette Midler\">Bette Midler</a> in <i><a href=\"https://en.wikipedia.org/wiki/I%27ll_Eat_You_Last:_A_Chat_with_Sue_Mengers\" title=\"I'll Eat You Last: A Chat with Sue Mengers\">I'll Eat You Last: A Chat with Sue Mengers</a></i> with a gross of $753,217 in just seven performances. Midler then broke her own record the week following with a gross of $865,144.<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"https://en.wikipedia.org#cite_note-2\">[2]</a></sup> The revival of <i><a href=\"https://en.wikipedia.org/wiki/The_Elephant_Man_(play)\" title=\"The Elephant Man (play)\">The Elephant Man</a></i>, starring <a href=\"https://en.wikipedia.org/wiki/Bradley_Cooper\" title=\"Bradley Cooper\">Bradley Cooper</a>, topped Midler's record by grossing $1,058,547 for an eight-performance week ending December 28, 2014.<sup class=\"reference\" id=\"cite_ref-Hetrick_3-0\"><a href=\"https://en.wikipedia.org#cite_note-Hetrick-3\">[3]</a></sup></p>"
     },
     {
         "venue_id_ibdb": "1137",
@@ -6123,7 +6391,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "30",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.65 - G 2/4 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Vosper"
             }
         ],
         "google_geocode_api": [
@@ -6222,7 +6492,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1222",
@@ -6248,7 +6520,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "30",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.10 - L 117/119/121/115 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Androcles_and_the_Lion_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
             },
             {
                 "file_id_hopper": "EJHA.0760",
@@ -6266,7 +6540,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "30",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.10 - L 117/119/121/115 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Man_of_Destiny",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
             }
         ],
         "google_geocode_api": [
@@ -6358,7 +6634,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Klaw_Theatre",
+        "venue_abstract": "<p>The <b>Klaw Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> theatre located at 251\u2013257 West 45th Street (now a part of <a href=\"https://en.wikipedia.org/wiki/George_Abbott_Way\" title=\"George Abbott Way\">George Abbott Way</a>) in midtown-<a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>. Built in 1921 for <a href=\"https://en.wikipedia.org/wiki/Theatrical_producer\" title=\"Theatrical producer\">producer</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Marcus_Klaw\" title=\"Marcus Klaw\">Marcus Klaw</a>, <a href=\"https://en.wikipedia.org/wiki/Eugene_De_Rosa\" title=\"Eugene De Rosa\">Eugene De Rosa</a> was the architect. <a href=\"https://en.wikipedia.org/wiki/Rachel_Crothers\" title=\"Rachel Crothers\">Rachel Crothers</a>' <i><a href=\"https://en.wikipedia.org/wiki/Nice_People_(play)\" title=\"Nice People (play)\">Nice People</a></i> was the opening production in 1921 with <a href=\"https://en.wikipedia.org/wiki/Tallulah_Bankhead\" title=\"Tallulah Bankhead\">Tallulah Bankhead</a> and <a href=\"https://en.wikipedia.org/wiki/Katharine_Cornell\" title=\"Katharine Cornell\">Katharine Cornell</a> in her debut Broadway role albeit a small one.</p><p>As the Klaw Theatre and later the Avon few productions had a very long run. Exceptions were the comedy <i><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Meet_the_Wife_(1923_Broadway_play)\" title=\"Meet the Wife (1923 Broadway play)\">Meet the Wife</a></i> running for 232 performances in 1923 with <a href=\"https://en.wikipedia.org/wiki/Humphrey_Bogart\" title=\"Humphrey Bogart\">Humphrey Bogart</a> as juvenile lead Gregory Brown and playwright <a href=\"https://en.wikipedia.org/wiki/Hatcher_Hughes\" title=\"Hatcher Hughes\">Hatcher Hughes</a>'s <a href=\"https://en.wikipedia.org/wiki/Melodrama\" title=\"Melodrama\">melodrama</a> <i><a href=\"https://en.wikipedia.org/wiki/Hell-Bent_Fer_Heaven\" title=\"Hell-Bent Fer Heaven\">Hell-Bent Fer Heaven</a></i> running for 122 performances in 1924 and winning the <a href=\"https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Drama\" title=\"Pulitzer Prize for Drama\">Pulitzer Prize for Drama</a> in 1924. <a href=\"https://en.wikipedia.org/wiki/Arnold_Schoenberg\" title=\"Arnold Schoenberg\">Arnold Schoenberg</a>'s musical composition <i><a href=\"https://en.wikipedia.org/wiki/Pierrot_Lunaire\" title=\"Pierrot Lunaire\">Pierrot Lunaire</a></i> was performed for the first time in the western hemisphere at the Klaw on February 4, 1923 with <a href=\"https://en.wikipedia.org/wiki/George_Gershwin\" title=\"George Gershwin\">George Gershwin</a> and <a href=\"https://en.wikipedia.org/wiki/Carl_Ruggles\" title=\"Carl Ruggles\">Carl Ruggles</a> in attendance. On November 28, 1926 <a href=\"https://en.wikipedia.org/wiki/Martha_Graham\" title=\"Martha Graham\">Martha Graham</a> and others in her company gave a dance recital at the Klaw, they were accompanied by pianist <a href=\"https://en.wikipedia.org/wiki/Louis_Horst\" title=\"Louis Horst\">Louis Horst</a>. <a href=\"https://en.wikipedia.org/wiki/Maxwell_Anderson\" title=\"Maxwell Anderson\">Maxwell Anderson</a>'s <i><a href=\"https://en.wikipedia.org/wiki/Gypsy_(1929_play)\" title=\"Gypsy (1929 play)\">Gypsy</a></i>, directed by <a href=\"https://en.wikipedia.org/wiki/George_Cukor\" title=\"George Cukor\">George Cukor</a>, had a short run of 64 performances from January 14, 1929 to March 1929 but was included in <a href=\"https://en.wikipedia.org/wiki/Burns_Mantle\" title=\"Burns Mantle\">Burns Mantle</a>'s <i>The Best Plays of 1928 - 1929</i>.</p><p>It was renamed the Avon Theatre in 1929. <i><a href=\"https://en.wikipedia.org/wiki/Strictly_Dishonorable_(play)\" title=\"Strictly Dishonorable (play)\">Strictly Dishonorable</a></i>, written by <a href=\"https://en.wikipedia.org/wiki/Preston_Sturges\" title=\"Preston Sturges\">Preston Sturges</a>, had the longest run at the Avon of 557 performances from September, 1929 to January, 1931. <a href=\"https://en.wikipedia.org/wiki/George_Bernard_Shaw\" title=\"George Bernard Shaw\">George Bernard Shaw</a>, <a href=\"https://en.wikipedia.org/wiki/No%C3%ABl_Coward\" title=\"No\u00ebl Coward\">No\u00ebl Coward</a> and <a href=\"https://en.wikipedia.org/wiki/Oscar_Wilde\" title=\"Oscar Wilde\">Oscar Wilde</a> had their works staged at both the Klaw and Avon.</p><p>It was leased to <a href=\"https://en.wikipedia.org/wiki/CBS\" title=\"CBS\">CBS</a> in 1934 and renamed the CBS Radio Playhouse No. 2. CBS later bought it. In 1953 CBS sold it, the new owners razed it and built a parking deck on the site which abuts the <a href=\"https://en.wikipedia.org/wiki/Imperial_Theatre\" title=\"Imperial Theatre\">Imperial Theatre</a>.</p>"
     },
     {
         "venue_id_ibdb": "1238",
@@ -6384,7 +6662,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "21",
                 "scope_content_hopper": "Wednesday Matinee - Balcony - $1.10 - 2 G 12/13 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Connelly"
             },
             {
                 "file_id_hopper": "EJHA.0845",
@@ -6402,7 +6682,9 @@
                 "event_month_hopper": "12",
                 "event_date_hopper": "4",
                 "scope_content_hopper": "Friday Evening - Balcony - $1.50 - 2 H 4/3 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Elmer_Rice"
             }
         ],
         "google_geocode_api": [
@@ -6511,7 +6793,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Helen_Hayes_Theatre",
+        "venue_abstract": "<p><span style=\"font-size: small;\"><span id=\"coordinates\"><a href=\"https://en.wikipedia.org/wiki/Geographic_coordinate_system\" title=\"Geographic coordinate system\">Coordinates</a>: <span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://en.wikipedia.org//tools.wmflabs.org/geohack/geohack.php?pagename=Helen_Hayes_Theatre&amp;params=40_45_28_N_73_59_15_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40\u00b045\u203228\u2033N</span> <span class=\"longitude\">73\u00b059\u203215\u2033W</span></span></span><span class=\"geo-multi-punct\">\ufeff / \ufeff</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.75778\u00b0N 73.98750\u00b0W</span><span style=\"display:none\">\ufeff / <span class=\"geo\">40.75778; -73.98750</span></span></span></a></span></span></span></p><p><b>Helen Hayes Theatre</b>, (initially known as the <b>Little Theatre</b>), is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a> located at 240 West 44th Street in <a href=\"https://en.wikipedia.org/wiki/Midtown_Manhattan\" title=\"Midtown Manhattan\">Midtown Manhattan</a>. With 597 seats, it is the smallest theatre on Broadway. The Merv Griffin Show was broadcast from the theatre in the 1960s until the show moved to Los Angeles in 1972.</p>"
     },
     {
         "venue_id_ibdb": "1324",
@@ -6537,7 +6821,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "7",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $2.20 - D 13/15 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Robert_E._Sherwood"
             },
             {
                 "file_id_hopper": "EJHA.0802",
@@ -6555,7 +6841,9 @@
                 "event_month_hopper": "6",
                 "event_date_hopper": "5",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $2.20 - E 22/24 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Road_to_Rome",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Robert_E._Sherwood"
             },
             {
                 "file_id_hopper": "EJHA.0805",
@@ -6573,7 +6861,9 @@
                 "event_month_hopper": "11",
                 "event_date_hopper": "18",
                 "scope_content_hopper": "Thursday Evening - Second Balcony - $1.10 - E 10/8 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)"
             },
             {
                 "file_id_hopper": "EJHA.0812",
@@ -6591,7 +6881,9 @@
                 "event_month_hopper": "2",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Thursday Evening - Second Balcony - $1.00 - F 108/109 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Street_Scene_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Elmer_Rice"
             },
             {
                 "file_id_hopper": "EJHA.0832",
@@ -6609,7 +6901,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "14",
                 "scope_content_hopper": "Tuesday Evening - Second Balcony - $1.00 - A 15/13 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_First_Mrs._Fraser_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/St._John_Greer_Ervine"
             }
         ],
         "google_geocode_api": [
@@ -6708,7 +7002,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Playhouse_Theatre_(New_York_City)",
+        "venue_abstract": "<p>The <b>Playhouse Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a> located at 137 West 48th Street in midtown-<a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>. <a href=\"https://en.wikipedia.org/wiki/Charles_A._Rich\" title=\"Charles A. Rich\">Charles A. Rich</a> was the architect. It was built in 1911 for producer <a href=\"https://en.wikipedia.org/wiki/William_A._Brady\" title=\"William A. Brady\">William A. Brady</a> who also owned the nearby <a href=\"https://en.wikipedia.org/wiki/48th_Street_Theatre\" title=\"48th Street Theatre\">48th Street Theatre</a>. After Brady died in 1944, it was sold to the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Organization\" title=\"Shubert Organization\">Shubert Organization</a>. It housed an <a href=\"https://en.wikipedia.org/wiki/American_Broadcasting_Company\" title=\"American Broadcasting Company\">ABC</a> radio station from 1949 to 1952. <i>Sauce for the Goose</i> was the opening production on April 15, 1911, closing after 2 performances that day. It was razed to accommodate the <a href=\"https://en.wikipedia.org/wiki/Rockefeller_Center\" title=\"Rockefeller Center\">Rockefeller Center</a> expansion in 1969.</p><p>Another theatre, located at 359 W. 48th St., was called Playhouse Theatre from 1970\u201383.</p>"
     },
     {
         "venue_id_ibdb": "1327",
@@ -6734,7 +7030,9 @@
                 "event_month_hopper": "3",
                 "event_date_hopper": "13",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.50 - G 6/8 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Holiday_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Barry"
             },
             {
                 "file_id_hopper": "EJHA.0865",
@@ -6752,7 +7050,9 @@
                 "event_month_hopper": "1",
                 "event_date_hopper": "23",
                 "scope_content_hopper": "Tuesday Evening - Balcony - $1.10 - H 3/5/1 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/Her_Master%27s_Voice_(play)",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Clare_Kummer"
             }
         ],
         "google_geocode_api": [
@@ -6861,7 +7161,9 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Gerald_Schoenfeld_Theatre",
+        "venue_abstract": "<p>The <b>Gerald Schoenfeld Theatre</b> is a <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Theatre_(structure)\" title=\"Theatre (structure)\">theatre</a>, previously known as the <b>Plymouth Theatre</b>, located at 236 West 45th Street (<a href=\"https://en.wikipedia.org/wiki/George_Abbott_Way\" title=\"George Abbott Way\">George Abbott Way</a>) in midtown <a href=\"https://en.wikipedia.org/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a> and renamed in 2005 in honor of <a href=\"https://en.wikipedia.org/wiki/Gerald_Schoenfeld\" title=\"Gerald Schoenfeld\">Gerald Schoenfeld</a>.</p><p>Designed by <a href=\"https://en.wikipedia.org/wiki/Architect\" title=\"Architect\">architect</a> <a href=\"https://en.wikipedia.org/wiki/Herbert_J._Krapp\" title=\"Herbert J. Krapp\">Herbert J. Krapp</a> to resemble the neighboring <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Shubert_Theatre_(Broadway)\" title=\"Shubert Theatre (Broadway)\">Shubert</a> and <a href=\"https://en.wikipedia.org/wiki/Booth_Theatre\" title=\"Booth Theatre\">Booth</a> theatres designed by Henry B. Herts, the building was constructed by the <a href=\"https://en.wikipedia.org/wiki/Shubert_family\" title=\"Shubert family\">Shubert brothers</a> in 1917-18, christened the Plymouth Theatre, and leased to producer Arthur Hopkins. He intended it to be a venue for legitimate plays starring notable actors such as <a href=\"https://en.wikipedia.org/wiki/John_Barrymore\" title=\"John Barrymore\">John</a> and <a href=\"https://en.wikipedia.org/wiki/Lionel_Barrymore\" title=\"Lionel Barrymore\">Lionel Barrymore</a>. The premiere production was <i>A Successful Calamity</i>, a comedy with <a href=\"https://en.wikipedia.org/wiki/William_Gillette\" title=\"William Gillette\">William Gillette</a> and <a href=\"https://en.wikipedia.org/wiki/Estelle_Winwood\" title=\"Estelle Winwood\">Estelle Winwood</a>.</p><p>After Hopkins died in 1948, control of the theatre returned to the Shuberts, who still own the property, which was designated a <a href=\"https://en.wikipedia.org/wiki/New_York_City_Landmarks_Preservation_Commission\" title=\"New York City Landmarks Preservation Commission\">New York landmark</a> in 1987. The 1,080-seat house was renamed after <a href=\"https://en.wikipedia.org/wiki/Gerald_Schoenfeld\" title=\"Gerald Schoenfeld\">Gerald Schoenfeld</a>, chairman of the Shubert Organization, in 2005.</p>"
     },
     {
         "venue_id_ibdb": "1365",
@@ -6887,7 +7189,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "6",
                 "scope_content_hopper": "Tuesday Evening - $1.10 - N 104/105/106/107 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Channing_Pollock_(writer)"
             },
             {
                 "file_id_hopper": "EJHA.0803",
@@ -6905,7 +7209,9 @@
                 "event_month_hopper": "10",
                 "event_date_hopper": "15",
                 "scope_content_hopper": "Monday Evening - Balcony - $2.00 - J 14/16 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "https://en.wikipedia.org/wiki/The_Front_Page",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Hecht"
             }
         ],
         "google_geocode_api": [
@@ -6997,7 +7303,9 @@
                     "street_address"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "NULL",
+        "venue_abstract": "NULL"
     },
     {
         "venue_id_ibdb": "1371",
@@ -7023,7 +7331,9 @@
                 "event_month_hopper": "4",
                 "event_date_hopper": "28",
                 "scope_content_hopper": "Wednesday Evening - Balcony - $1.10 - J 103/101 - Edward Hopper handwritten play title verso.",
-                "note_hopper": "NULL"
+                "note_hopper": "NULL",
+                "show_wikipedia_url": "NULL",
+                "writer_wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Wolfson"
             }
         ],
         "google_geocode_api": [
@@ -7132,6 +7442,8 @@
                     "premise"
                 ]
             }
-        ]
+        ],
+        "venue_wikipedia_url": "https://en.wikipedia.org/wiki/Vanderbilt_Theatre",
+        "venue_abstract": "<p>The <b>Vanderbilt Theatre</b> was a <a href=\"https://en.wikipedia.org/wiki/New_York_City\" title=\"New York City\">New York City</a> <a href=\"https://en.wikipedia.org/wiki/Broadway_theatre\" title=\"Broadway theatre\">Broadway theatre</a>, designed by architect <a href=\"https://en.wikipedia.org/wiki/Eugene_De_Rosa\" title=\"Eugene De Rosa\">Eugene De Rosa</a> for producer Lyle Andrews. It opened in 1918,<sup class=\"reference\" id=\"cite_ref-ibdb-vanderbilt_1-0\"><a href=\"https://en.wikipedia.org#cite_note-ibdb-vanderbilt-1\">[1]</a></sup> located at 148 West 48th Street. The theatre was demolished in 1954.</p><p>The 780-seat theatre hosted the long-running musical <i><a href=\"https://en.wikipedia.org/wiki/Irene_(musical)\" title=\"Irene (musical)\">Irene</a></i> from 1919 to 1921. In the mid-1920s, several <a href=\"https://en.wikipedia.org/wiki/Rodgers_and_Hart\" title=\"Rodgers and Hart\">Rodgers and Hart</a> musicals played at the theatre. Andrews lost the theatre during the <a href=\"https://en.wikipedia.org/wiki/Great_Depression\" title=\"Great Depression\">Great Depression</a>, and in 1931 it was briefly renamed the Tobis to show German films. The experiment was a failure, and the theatre returned to legitimate use. No new shows played at the theatre from 1939 until 1953, as it was used as a radio studio, first by <a href=\"https://en.wikipedia.org/wiki/NBC\" title=\"NBC\">NBC</a>, then by <a href=\"https://en.wikipedia.org/wiki/American_Broadcasting_Company\" title=\"American Broadcasting Company\">ABC</a>, until 1952. <a class=\"new\" href=\"https://en.wikipedia.org/w/index.php?title=Irving_Maidman&amp;action=edit&amp;redlink=1\" title=\"Irving Maidman (page does not exist)\">Irving Maidman</a> purchased the theatre and began to produce new shows in 1953, but after only a year, the theatre was demolished - replaced by a 6-story parking garage.<sup class=\"reference\" id=\"cite_ref-ibdb-vanderbilt_1-1\"><a href=\"https://en.wikipedia.org#cite_note-ibdb-vanderbilt-1\">[1]</a></sup><sup class=\"reference\" id=\"cite_ref-2\"><a href=\"https://en.wikipedia.org#cite_note-2\">[2]</a></sup></p>"
     }
 ]
